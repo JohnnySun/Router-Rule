@@ -1,1 +1,6 @@
 HOST-SUFFIX,pokemon-unitepgame.com,Game
+
+#World of tanks blitz & World of warship blitz
+HOST-SUFFIX,wotblitz.asia,Game
+HOST-SUFFIX,wgmext.net,Game
+IP-CIDR,92.223.16.0/23,Game
