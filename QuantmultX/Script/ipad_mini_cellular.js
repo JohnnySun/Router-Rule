@@ -10,8 +10,12 @@
      // response.statusCode, response.headers, response.body
      const word = '无线局域网 + 蜂窝网络机型将在获得批准后发售';
      var has_released = !response.body.includes(word);
-     console.log(response.body);
-     $notify("iPad Mini 蜂窝版发售状态", "蜂窝版还未发售", "蜂窝版还未发售"); 
+     if (has_released) {
+        $notify("iPad Mini 蜂窝版发售状态", "蜂窝版已经发售", "蜂窝版已经发售");
+     } else {
+        $notify("iPad Mini 蜂窝版发售状态", "蜂窝版还未发售", "蜂窝版还未发售");
+     }
+      
      $done();
  }, reason => {
      // reason.error
