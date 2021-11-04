@@ -1,2 +1,2 @@
 # Router-Rule
-Router rule for QuantmultX.
+QuantmultX router rule for personal usage.
