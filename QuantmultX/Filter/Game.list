@@ -5,6 +5,6 @@ HOST-SUFFIX,wotblitz.asia,Game
 HOST-SUFFIX,wgmext.net,Game
 HOST-SUFFIX,nianticstatic.com,AIA Japan
 HOST-SUFFIX,cygames.jp,AIA Japan
-HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,AIA Japan
+HOST-KEYWORD,umamusume.akamaized.net,AIA Japan
 #See https://ipinfo.io/AS199524
 IP-CIDR,92.223.16.0/23,Game
