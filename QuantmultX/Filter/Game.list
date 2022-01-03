@@ -1,11 +1,15 @@
-HOST-SUFFIX,pokemon-unitepgame.com,Game
+HOST-SUFFIX,pokemon-unitepgame.com,HKGame
 
 #World of tanks blitz & World of warship blitz
-HOST-SUFFIX,wotblitz.asia,Game
-HOST-SUFFIX,wgmext.net,Game
-HOST-SUFFIX,nianticstatic.com,Japan
-HOST-SUFFIX,cygames.jp,Japan
-HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,Japan
-HOST-SUFFIX,prd-storage-game-umamusume.akamaized.net,Japan
+HOST-SUFFIX,wotblitz.asia,HKGame
+HOST-SUFFIX,wgmext.net,HKGame
 #See https://ipinfo.io/AS199524
-IP-CIDR,92.223.16.0/23,Game
+IP-CIDR,92.223.16.0/23,HKGame
+
+HOST-SUFFIX,nianticstatic.com,Japan
+
+#umamusume
+HOST-SUFFIX,cygames.jp,JPGame
+HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,JPGame
+HOST-SUFFIX,prd-storage-game-umamusume.akamaized.net,JPGame
+#end of umamusume
