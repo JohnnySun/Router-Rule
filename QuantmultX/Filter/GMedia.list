@@ -37,7 +37,7 @@ HOST,play-edge.itunes.apple.com,GMedia
 HOST,hls-svod-aoc.itunes.apple.com,GMedia
 HOST-SUFFIX,tv.apple.com,GMedia
 
-# > Apple iTunes
+# > Apple Podcasts
 HOST-SUFFIX,podcasts.apple.com,GMedia
 
 # > Bahamut
