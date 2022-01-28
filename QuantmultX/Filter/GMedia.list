@@ -38,7 +38,7 @@ HOST,hls-svod-aoc.itunes.apple.com,GMedia
 HOST-SUFFIX,tv.apple.com,GMedia
 
 # > Apple iTunes
-HOST,xp.apple.com,GMedia
+HOST-SUFFIX,podcasts.apple.com,GMedia
 
 # > Bahamut
 USER-AGENT,Anime*,GMedia
