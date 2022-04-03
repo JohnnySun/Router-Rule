@@ -8,6 +8,10 @@ IP-CIDR,92.223.16.0/23,HKGame
 
 HOST-SUFFIX,nianticstatic.com,Japan
 
+#GenshinImpact
+HOST-SUFFIX,yuanshen.com,Direct
+#end of GenshinImpact
+
 #umamusume
 HOST-SUFFIX,cygames.jp,Japan
 HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,Japan
