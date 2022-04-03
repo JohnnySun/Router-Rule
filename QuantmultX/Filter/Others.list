@@ -2,3 +2,8 @@
 host-suffix, ibllc.com, direct
 host-suffix, ibkr.com.hk, direct
 host-suffix, ibkr.com, direct
+
+#AS45102 ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., US
+#阿里云海外都是CN2的双线回程，理论上无需代理，暂时直连
+ip-cidr, 47.245.0.0/19, direct
+ip-cidr, 47.245.0.0/18, direct
