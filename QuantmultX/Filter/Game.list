@@ -4,7 +4,7 @@ HOST-SUFFIX,pokemon-unitepgame.com,HKGame
 HOST-SUFFIX,wotblitz.asia,HKGame
 HOST-SUFFIX,wgmext.net,HKGame
 #See https://ipinfo.io/AS199524
-IP-CIDR,92.223.16.0/23,HKGame
+IP-CIDR,92.223.16.0/23,HKGame,multi-interface
 
 HOST-SUFFIX,nianticstatic.com,Japan
 
