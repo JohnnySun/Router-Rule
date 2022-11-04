@@ -21,6 +21,10 @@ HOST-SUFFIX,komoehk.aihelp.net,Outside
 HOST-SUFFIX,glcs.listdl.com,Outside
 #end of umamusume
 
+#NIKKE
+HOST-SUFFIX,aws-na-dr.intlgame.com,Japan
+#end of NIKKE
+
 # Princess Connect! Re:Dive 
 HOST-SUFFIX,so-net.tw,Japan
 #end of Princess Connect! Re:Dive 
