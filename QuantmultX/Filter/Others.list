@@ -3,6 +3,7 @@ host-suffix, ibllc.com, direct
 host-suffix, ibkr.com.hk, direct
 host-suffix, ibkr.com, direct
 host-suffix, openai.com, US
+host-suffix, moxmoe.tw, Taiwan
 #AS45102 ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., US
 #阿里云海外都是CN2的双线回程，理论上无需代理，暂时直连
 ip-asn, 45102, direct
