@@ -24,6 +24,6 @@ HOST-SUFFIX,xboxlive.com,Microsoft
 
 # New bing
 HOST-SUFFIX,bing.com,Outside
-HOST-SUFFIX,bing.net,HOST-SUFFIX,bing.com,Outside
+HOST-SUFFIX,bing.net,Outside
 
 ip-asn,8075,Microsoft_AS8075
