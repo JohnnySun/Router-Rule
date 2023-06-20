@@ -2,8 +2,6 @@ USER-AGENT,Microsoft*,Microsoft
 HOST-KEYWORD,microsoft,Microsoft
 HOST-SUFFIX,ms,Microsoft
 HOST-SUFFIX,azure.com,Microsoft
-HOST-SUFFIX,bing.com,Microsoft_Bing
-HOST-SUFFIX,bing.net,Microsoft
 HOST-SUFFIX,hotmail.com,Microsoft
 HOST-SUFFIX,live.com,Microsoft
 HOST-SUFFIX,live.net,Microsoft
@@ -23,4 +21,9 @@ HOST-SUFFIX,windows.com,Microsoft
 HOST-SUFFIX,windows.net,Microsoft
 HOST-SUFFIX,xbox.com,Microsoft
 HOST-SUFFIX,xboxlive.com,Microsoft
+
+# New bing
+HOST-SUFFIX,bing.com,Outside
+HOST-SUFFIX,bing.net,HOST-SUFFIX,bing.com,Outside
+
 ip-asn,8075,Microsoft_AS8075
