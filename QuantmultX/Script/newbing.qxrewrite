@@ -1,4 +1,7 @@
-hostname = www.bing.com, www.bingapis.com
+hostname = www.bing.com, www.bingapis.com, cn.bing.com
+
+# 阻止使用cn.bing.com
+^https?:\/\/(cn\.)?bing\.com url 302 https://www.bing.com
 
 ^https://www.(bing|bingapis).com/(search|new|api).+ url request-header (\r\n)User-Agent:(?=.+(\([^()]*(?:Macintosh|iPad|iPhone)[^()]*\)))(?!.+(?:BingSapphire|EdgiOS)).+(\r\n) request-header $1User-Agent: Mozilla/5.0 $2 AppleWebKit/605.1.15 (KHTML, like Gecko) EdgiOS/112.0.1722.44 Edg/110.0 Version/16.0 Mobile/15E148 Safari/604.1$3
 
