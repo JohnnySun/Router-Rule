@@ -1,33 +1,33 @@
-HOST-SUFFIX,pokemon-unitepgame.com,HKGame
+HOST-SUFFIX,pokemon-unitepgame.com,HK-Game
 
 #World of tanks blitz & World of warship blitz
-HOST-SUFFIX,wotblitz.asia,HKGame,multi-interface
-HOST-SUFFIX,wgmext.net,HKGame
+HOST-SUFFIX,wotblitz.asia,HK-Game,multi-interface
+HOST-SUFFIX,wgmext.net,HK-Game
 #See https://ipinfo.io/AS199524
-IP-CIDR,92.223.16.0/23,HKGame,multi-interface
+IP-CIDR,92.223.16.0/23,HK-Game,multi-interface
 
-HOST-SUFFIX,nianticstatic.com,Japan
+HOST-SUFFIX,nianticstatic.com,J「
 
 #GenshinImpact
 HOST-SUFFIX,yuanshen.com,Direct
 #end of GenshinImpact
 
 #umamusume
-HOST-SUFFIX,cygames.jp,Japan
-HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,Japan
-HOST-SUFFIX,prd-storage-game-umamusume.akamaized.net,Japan
+HOST-SUFFIX,cygames.jp,JP
+HOST-SUFFIX,prd-storage-app-umamusume.akamaized.net,JP
+HOST-SUFFIX,prd-storage-game-umamusume.akamaized.net,JP
 HOST-SUFFIX,komoejoy.com,Outside
 HOST-SUFFIX,komoehk.aihelp.net,Outside
 HOST-SUFFIX,glcs.listdl.com,Outside
 #end of umamusume
 
 #NIKKE
-HOST-SUFFIX,aws-na-dr.intlgame.com,Japan
-HOST-SUFFIX,cloud.nikke-kr.com,Japan
+HOST-SUFFIX,aws-na-dr.intlgame.com,JP
+HOST-SUFFIX,cloud.nikke-kr.com,JP
 #end of NIKKE
 
 # Princess Connect! Re:Dive 
-HOST-SUFFIX,so-net.tw,Japan
+HOST-SUFFIX,so-net.tw,JP
 #end of Princess Connect! Re:Dive 
 
 #Modern Warships
