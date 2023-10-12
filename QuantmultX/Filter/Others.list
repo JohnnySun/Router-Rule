@@ -1,12 +1,12 @@
-#HOST-SUFFIX,gitpod.io,America
+#HOST-SUFFIX,gitpod.io, US
 host-suffix, ibllc.com, direct
 host-suffix, ibkr.com.hk, direct
 host-suffix, ibkr.com, direct
 host-suffix, openai.com, US
 
 #moxmoe
-host-suffix, moxmoe.tw, Taiwan
-host-suffix, kox.moe, Taiwan
+host-suffix, moxmoe.tw, TW
+host-suffix, kox.moe, TW
 #end of moxmoe
 
 #AS45102 ALIBABA-CN-NET - Alibaba (US) Technology Co., Ltd., US
