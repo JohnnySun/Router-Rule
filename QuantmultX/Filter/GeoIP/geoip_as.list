@@ -1,6 +1,7 @@
 # Continent Asia
 
 # Southeast Asia Customize Router
+geoip, CN, Mainland
 geoip, JP, JP
 geoip, HK, HK
 geoip, SG, SG
