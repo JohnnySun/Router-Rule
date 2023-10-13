@@ -1,0 +1,70 @@
+# Continent Asia
+
+# Customize Router
+geoip, JP, JP
+geoip, HK, HK
+geoip, SG, SG
+geoip, TW, TW
+geoip, KR, KR
+geoip, TH, TH
+geoip, IN, IN
+geoip, PH, PH
+geoip, AS, SG
+
+# Middle East Optimized Router
+geoip, TR, TR
+geoip, AE, TR
+# TODO
+
+# Default router
+# geoip, AE, AS
+geoip, AF, AS
+geoip, AM, AS
+geoip, AZ, AS
+geoip, BD, AS
+geoip, BH, AS
+geoip, BN, AS
+geoip, BT, AS
+geoip, CC, AS
+#geoip, CN, AS
+geoip, GE, AS
+#geoip, HK, AS
+geoip, ID, AS
+geoip, IL, AS
+# geoip, IN, AS
+geoip, IO, AS
+geoip, IQ, AS
+geoip, IR, AS
+geoip, JO, AS
+# geoip, JP, AS
+geoip, KG, AS
+geoip, KH, AS
+geoip, KP, AS
+# geoip, KR, AS
+geoip, KW, AS
+geoip, KZ, AS
+geoip, LA, AS
+geoip, LB, AS
+geoip, LK, AS
+geoip, MM, AS
+geoip, MN, AS
+geoip, MO, AS
+geoip, MV, AS
+geoip, MY, AS
+geoip, NP, AS
+geoip, OM, AS
+# geoip, PH, AS
+geoip, PK, AS
+geoip, PS, AS
+geoip, QA, AS
+geoip, SA, AS
+# geoip, SG, AS
+geoip, SY, AS
+# geoip, TH, AS
+geoip, TJ, AS
+geoip, TM, AS
+# geoip, TR, AS
+# geoip, TW, AS
+geoip, UZ, AS
+geoip, VN, AS
+geoip, YE, AS

@@ -1,0 +1,33 @@
+# Continent Oceania
+
+# Customize Router
+
+# Default router
+geoip, AS, OC
+geoip, AU, OC
+geoip, CK, OC
+geoip, CX, OC
+geoip, FJ, OC
+geoip, FM, OC
+geoip, GU, OC
+geoip, KI, OC
+geoip, MH, OC
+geoip, MP, OC
+geoip, NC, OC
+geoip, NF, OC
+geoip, NR, OC
+geoip, NU, OC
+geoip, NZ, OC
+geoip, PF, OC
+geoip, PG, OC
+geoip, PN, OC
+geoip, PW, OC
+geoip, SB, OC
+geoip, TK, OC
+geoip, TL, OC
+geoip, TO, OC
+geoip, TV, OC
+geoip, UM, OC
+geoip, VU, OC
+geoip, WF, OC
+geoip, WS, OC

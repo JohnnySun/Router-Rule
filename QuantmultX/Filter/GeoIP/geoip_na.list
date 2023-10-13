@@ -1,0 +1,49 @@
+# Continent North American
+
+# Customize Router
+geoip, US, US
+geoip, CA, CA
+
+# Default router
+geoip, AG, NA
+geoip, AI, NA
+geoip, AW, NA
+geoip, BB, NA
+geoip, BL, NA
+geoip, BM, NA
+geoip, BQ, NA
+geoip, BS, NA
+geoip, BZ, NA
+# geoip, CA, NA
+geoip, CR, NA
+geoip, CU, NA
+geoip, CW, NA
+geoip, DM, NA
+geoip, DO, NA
+geoip, GD, NA
+geoip, GL, NA
+geoip, GP, NA
+geoip, GT, NA
+geoip, HN, NA
+geoip, HT, NA
+geoip, JM, NA
+geoip, KN, NA
+geoip, KY, NA
+geoip, LC, NA
+geoip, MF, NA
+geoip, MQ, NA
+geoip, MS, NA
+geoip, MX, NA
+geoip, NA, AF
+geoip, NI, NA
+geoip, PA, NA
+geoip, PM, NA
+geoip, PR, NA
+geoip, SV, NA
+geoip, SX, NA
+geoip, TC, NA
+geoip, TT, NA
+# geoip, US, NA
+geoip, VC, NA
+geoip, VG, NA
+geoip, VI, NA

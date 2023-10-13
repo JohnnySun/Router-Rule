@@ -1,0 +1,62 @@
+# Continent Europe
+
+# Customize Router
+geoip, GB, UK
+geoip, DE, DE
+geoip, FR, FR
+geoip, RU, RU
+
+# Default router
+geoip, AD, EU
+geoip, AL, EU
+geoip, AT, EU
+geoip, AX, EU
+geoip, BA, EU
+geoip, BE, EU
+geoip, BG, EU
+geoip, BY, EU
+geoip, CH, EU
+geoip, CY, EU
+geoip, CZ, EU
+# geoip, DE, EU
+geoip, DK, EU
+geoip, EE, EU
+geoip, ES, EU
+geoip, FI, EU
+geoip, FO, EU
+# geoip, FR, EU
+# geoip, GB, EU
+geoip, GG, EU
+geoip, GI, EU
+geoip, GR, EU
+geoip, HR, EU
+geoip, HU, EU
+geoip, IE, EU
+geoip, IM, EU
+geoip, IS, EU
+geoip, IT, EU
+geoip, JE, EU
+geoip, LI, EU
+geoip, LT, EU
+geoip, LU, EU
+geoip, LV, EU
+geoip, MC, EU
+geoip, MD, EU
+geoip, ME, EU
+geoip, MK, EU
+geoip, MT, EU
+geoip, NL, EU
+geoip, NO, EU
+geoip, PL, EU
+geoip, PT, EU
+geoip, RO, EU
+geoip, RS, EU
+# geoip, RU, EU
+geoip, SE, EU
+geoip, SI, EU
+geoip, SJ, EU
+geoip, SK, EU
+geoip, SM, EU
+geoip, UA, EU
+geoip, VA, EU
+geoip, XK, EU

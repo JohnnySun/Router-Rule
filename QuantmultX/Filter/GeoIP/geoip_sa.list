@@ -1,0 +1,22 @@
+# Continent South American
+
+# Customize Router
+geoip, BR, BR
+geoip, AR, AR
+
+# Default router
+# geoip, AR, SA
+geoip, BO, SA
+# geoip, BR, SA
+geoip, CL, SA
+geoip, CO, SA
+geoip, EC, SA
+geoip, FK, SA
+geoip, GF, SA
+geoip, GY, SA
+geoip, PE, SA
+geoip, PY, SA
+geoip, SA, AS
+geoip, SR, SA
+geoip, UY, SA
+geoip, VE, SA
