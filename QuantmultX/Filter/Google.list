@@ -1,0 +1,5 @@
+# Google Anycast
+HOST-KEYWORD,google,Outside
+HOST-SUFFIX,google.cn,Outside
+HOST-SUFFIX,google.com,Outside
+# End of Google
