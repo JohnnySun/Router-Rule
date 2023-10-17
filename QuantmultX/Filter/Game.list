@@ -36,3 +36,7 @@ IP-CIDR,91.199.81.0/24,EU
 HOST-SUFFIX,exitgames.com,EU
 HOST-SUFFIX,mwapi.artstorm.com,EU
 
+#Gaijjn
+HOST-SUFFIX,gaijin.net,HK
+HOST-SUFFIX,gaijinent.com,HK
+
