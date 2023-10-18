@@ -11,6 +11,6 @@ content=$(curl -s "$china_asn_prefixes_url")
 # 将第一个内容按行分割并处理
 echo "$content" | while IFS= read -r line1; do
   # 在每一行的末尾添加"ip-cidr, "和", Anycast"
-  modified_line="$line1, direct"
+  modified_line="$line1, Mainland"
   echo "$modified_line"
 done
