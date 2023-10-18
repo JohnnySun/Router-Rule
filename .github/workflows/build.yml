@@ -14,8 +14,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Update China ASN Router List
       - uses: actions/checkout@v4
+      - name: Update China ASN Router List
       if: github.event_name == 'schedule' && github.ref == 'refs/heads/master'
       run: |
         sh ./Script/gen_china_asn_router_list.sh > QuantmultX/Filter/China_ASN_router.list
