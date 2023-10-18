@@ -1,0 +1,26 @@
+name: Build
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update China ASN Router List
+      - uses: actions/checkout@v4
+      if: github.event_name == 'schedule' && github.ref == 'refs/heads/master'
+      run: |
+        sh ./Script/gen_china_asn_router_list.sh > QuantmultX/Filter/China_ASN_router.list
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "update $(date +%Y-%m-%d)"
+        git push -q
