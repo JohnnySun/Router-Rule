@@ -1,7 +1,7 @@
 host-suffix, ibllc.com, direct
 host-suffix, ibkr.com.hk, direct
 host-suffix, ibkr.com, direct
-host-suffix, openai.com, SG
+host-suffix, openai.com, US
 
 #moxmoe
 host-suffix, moxmoe.tw, TW
