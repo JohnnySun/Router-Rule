@@ -28,14 +28,14 @@ content2=$(curl -s "$anycatch_v6_prefixes_url")
 echo "payload:"
 
 # 将第一个内容按行分割并处理
-echo "$content1" | while IFS= read -r line1; do
+echo "$content1" | while IFS= read -r line1 || [[ -n "$line1" ]]; do
   # 在每一行的末尾添加"ip-cidr, "和", Anycast"
   modified_line="  - IP-CIDR, $line1"
   echo "$modified_line"
 done
 
 # 将第二个内容按行分割并处理
-echo "$content2" | while IFS= read -r line2; do
+echo "$content2" | while IFS= read -r line2 || [[ -n "$line2" ]]; do
   # 在每一行的末尾添加"ip6-cidr, "和", Anycast"
   modified_line="  - IP-CIDR6, $line2"
   echo "$modified_line"
