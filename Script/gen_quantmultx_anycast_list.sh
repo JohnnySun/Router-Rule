@@ -34,7 +34,7 @@ echo "$content1" | while IFS= read -r line1 || [[ -n "$line1" ]]; do
 done
 
 # 将第二个内容按行分割并处理
-echo "$content2" | while IFS= read -r line || [[ -n "$line2" ]]; do
+echo "$content2" | while IFS= read -r line2 || [[ -n "$line2" ]]; do
   # 在每一行的末尾添加"ip6-cidr, "和", Anycast"
   modified_line="ip6-cidr, $line2, Anycast"
   echo "$modified_line"
