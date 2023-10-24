@@ -1,6 +1,6 @@
 #!/bin/bash
 
-url=" https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Reject.yaml"
+url="https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Reject.yaml"
 
 payload=$(curl -s "$url")
 
