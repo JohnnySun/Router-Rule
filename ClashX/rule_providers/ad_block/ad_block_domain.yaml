@@ -8156,5 +8156,44 @@ payload:
   - DOMAIN-SUFFIX,5534edee5a.com
   - DOMAIN-SUFFIX,ea778a21c7.com
   - DOMAIN-SUFFIX,baidustatic.com
+  - DOMAIN,duclick.baidu.com
+  - DOMAIN,hm.baidu.com
+  - DOMAIN,hmma.baidu.com
+  - DOMAIN,mobads.baidu.com
+  - DOMAIN,mobads-logs.baidu.com
+  - DOMAIN,nsclick.baidu.com
+  - DOMAIN,wn.pos.baidu.com
+  - DOMAIN,ps.map.baidu.com
+  - DOMAIN,offnavi.map.baidu.com
+  - DOMAIN,newvector.map.baidu.com
+  - DOMAIN,ulog.imap.baidu.com
+  - DOMAIN,newloc.map.n.shifen.com
+  - DOMAIN,miniapp.bilibili.com
+  - DOMAIN,thirdparty.biliapi.com
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,openaicom.imgix.net
+  - DOMAIN,log.star.ele.me
+  - DOMAIN,ad.bn.netease.com
+  - DOMAIN,ad.yixin.im
+  - DOMAIN,iadmat.nosdn.127.net
+  - DOMAIN,iadmusicmat.music.126.net
+  - DOMAIN,iadmusicmatvideo.music.126.net
+  - DOMAIN,impservice.dictapp.youdao.com
+  - DOMAIN,impservice.youdao.com
+  - DOMAIN,log.yex.youdao.com
+  - DOMAIN,log-yex.youdao.com
+  - DOMAIN,mr.da.netease.com
+  - DOMAIN,n.3g.163.com
+  - DOMAIN,nex.163.com
+  - DOMAIN,pr.da.netease.com
+  - DOMAIN,rd.da.netease.com
+  - DOMAIN,wr.da.netease.com
+  - DOMAIN,yt-adp.nosdn.127.net
+  - DOMAIN,appcloud2.in.zhihu.com
+  - DOMAIN,mqtt.zhihu.com
+  - DOMAIN,sugar.zhihu.com
+  - DOMAIN,zhihu-analytics.zhihu.com
+  - DOMAIN,zhihu-web-analytics.zhihu.com
+  - DOMAIN,118.89.204.198
   - DOMAIN-SUFFIX,xdrig.com
   - DOMAIN-SUFFIX,zhihu.xmcimg.com
