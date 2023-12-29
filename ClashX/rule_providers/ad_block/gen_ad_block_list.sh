@@ -9,7 +9,7 @@ printf "$payload" | grep DOMAIN >> $1/ad_block_domain.yaml
 # parse to +.domain.com
 sed -i "s/- DOMAIN\(.*\),\(.*\)/- '+.\2'/g" "$1/ad_block_domain.yaml"
 
-printf "$payload" | grep DOMAIN >> $1/ad_block_domain.text
+printf "$payload" | grep DOMAIN > $1/ad_block_domain.text
 sed -i "s/- DOMAIN-SUFFIX,/./g" "$1/ad_block_domain.text"
 sed -i "s/- DOMAIN,//g" "$1/ad_block_domain.text"
 sed -i "s/^ \+//g" "$1/ad_block_domain.text"
