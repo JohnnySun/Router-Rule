@@ -7,7 +7,7 @@ payload=$(curl -s $url)
 echo "payload:" > $1/ad_block_domain.yaml
 printf "$payload" | grep DOMAIN >> $1/ad_block_domain.yaml
 # parse to +.domain.com
-sed -i 's/- DOMAIN\(.*\),\(.*\)/+\.\2/g' $1/ad_block_domain.yaml
+sed -i 's/- DOMAIN\(.*\),\(.*\)/- \'+\.\2\'/g' $1/ad_block_domain.yaml
 
 echo "payload:" > $1/ad_block_ipcidr.yaml
 printf "$payload" | grep IP-CIDR | sed 's/IP-CIDR.*,//g'>> $1/ad_block_ipcidr.yaml
