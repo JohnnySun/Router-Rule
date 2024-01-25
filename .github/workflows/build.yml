@@ -27,7 +27,7 @@ jobs:
       - name: Update AS IP Range List
         if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')  && github.ref == 'refs/heads/master'
         run: |
-          sh ./ClashX/rule_providers/as_ip_range/AS8075/gen_as714.sh > ./ClashX/rule_providers/as_ip_range/AS714/as714_ipcidr.yaml
+          sh ./ClashX/rule_providers/as_ip_range/AS714/gen_as714.sh > ./ClashX/rule_providers/as_ip_range/AS714/as714_ipcidr.yaml
           sh ./ClashX/rule_providers/as_ip_range/AS8075/gen_as8075.sh > ./ClashX/rule_providers/as_ip_range/AS8075/as8075_ipcidr.yaml
           
           
