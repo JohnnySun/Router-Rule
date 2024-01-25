@@ -19,6 +19,7 @@ jobs:
         if: (github.event_name == 'schedule' || github.event_name == 'workflow_dispatch')  && github.ref == 'refs/heads/master'
         run: |
           sh ./ClashX/rule_providers/ad_block/gen_ad_block_list.sh ./ClashX/rule_providers/ad_block/
+          sh ./ClashX/rule_providers/as_ip_range/AS8075/gen_as8075.sh ./ClashX/rule_providers/as_ip_range/AS8075/as8075_ipcidr.yaml
           sh ./Script/gen_clash_anycast_list.sh > ClashX/rule_providers/anycast.yaml
           sh ./Script/gen_cloudfront_list.sh > ClashX/rule_providers/cloudfront.yaml
           sh ./Script/gen_quantmultx_anycast_list.sh > QuantmultX/Filter/Anycast.list
