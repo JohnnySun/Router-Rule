@@ -28,7 +28,6 @@ ip-cidr, 3.3.12.0/24, Anycast
 ip-cidr, 3.3.13.0/24, Anycast
 ip-cidr, 3.3.14.0/24, Anycast
 ip-cidr, 3.3.15.0/24, Anycast
-ip-cidr, 4.0.0.0/9, Anycast
 ip-cidr, 5.8.68.0/24, Anycast
 ip-cidr, 5.10.244.0/22, Anycast
 ip-cidr, 5.39.242.0/24, Anycast
@@ -47,7 +46,6 @@ ip-cidr, 5.226.179.0/24, Anycast
 ip-cidr, 5.226.181.0/24, Anycast
 ip-cidr, 5.252.32.0/24, Anycast
 ip-cidr, 5.252.34.0/24, Anycast
-ip-cidr, 5.254.74.0/24, Anycast
 ip-cidr, 8.8.4.0/24, Anycast
 ip-cidr, 8.8.8.0/24, Anycast
 ip-cidr, 8.20.241.0/24, Anycast
@@ -56,7 +54,6 @@ ip-cidr, 8.20.247.0/24, Anycast
 ip-cidr, 8.26.56.0/24, Anycast
 ip-cidr, 8.44.80.0/22, Anycast
 ip-cidr, 9.9.9.0/24, Anycast
-ip-cidr, 12.120.58.0/24, Anycast
 ip-cidr, 13.107.3.0/24, Anycast
 ip-cidr, 13.107.4.0/24, Anycast
 ip-cidr, 13.107.5.0/24, Anycast
@@ -64,7 +61,6 @@ ip-cidr, 13.107.6.0/24, Anycast
 ip-cidr, 13.107.9.0/24, Anycast
 ip-cidr, 13.107.13.0/24, Anycast
 ip-cidr, 13.107.15.0/24, Anycast
-ip-cidr, 13.107.16.0/24, Anycast
 ip-cidr, 13.107.18.0/24, Anycast
 ip-cidr, 13.107.19.0/24, Anycast
 ip-cidr, 13.107.21.0/24, Anycast
@@ -120,7 +116,6 @@ ip-cidr, 23.19.52.0/24, Anycast
 ip-cidr, 23.19.53.0/24, Anycast
 ip-cidr, 23.19.196.0/24, Anycast
 ip-cidr, 23.19.197.0/24, Anycast
-ip-cidr, 23.26.249.0/24, Anycast
 ip-cidr, 23.36.64.0/24, Anycast
 ip-cidr, 23.40.66.0/24, Anycast
 ip-cidr, 23.40.67.0/24, Anycast
@@ -145,6 +140,7 @@ ip-cidr, 23.133.104.0/24, Anycast
 ip-cidr, 23.133.216.0/24, Anycast
 ip-cidr, 23.137.252.0/24, Anycast
 ip-cidr, 23.145.208.0/24, Anycast
+ip-cidr, 23.147.184.0/24, Anycast
 ip-cidr, 23.154.8.0/24, Anycast
 ip-cidr, 23.154.64.0/24, Anycast
 ip-cidr, 23.156.128.0/24, Anycast
@@ -197,10 +193,8 @@ ip-cidr, 23.235.37.0/24, Anycast
 ip-cidr, 23.238.23.0/24, Anycast
 ip-cidr, 23.238.25.0/24, Anycast
 ip-cidr, 23.247.163.0/24, Anycast
-ip-cidr, 24.27.252.0/23, Anycast
 ip-cidr, 24.56.96.0/20, Anycast
 ip-cidr, 24.162.224.0/19, Anycast
-ip-cidr, 24.239.135.0/24, Anycast
 ip-cidr, 27.50.48.0/24, Anycast
 ip-cidr, 27.124.125.0/24, Anycast
 ip-cidr, 27.126.245.0/24, Anycast
@@ -264,9 +258,7 @@ ip-cidr, 37.209.196.0/24, Anycast
 ip-cidr, 37.209.198.0/24, Anycast
 ip-cidr, 38.92.173.0/24, Anycast
 ip-cidr, 41.74.203.0/24, Anycast
-ip-cidr, 42.83.130.0/24, Anycast
 ip-cidr, 42.83.132.0/24, Anycast
-ip-cidr, 42.83.134.0/24, Anycast
 ip-cidr, 43.128.128.0/24, Anycast
 ip-cidr, 43.128.241.0/24, Anycast
 ip-cidr, 43.132.4.0/22, Anycast
@@ -348,6 +340,7 @@ ip-cidr, 43.175.231.0/24, Anycast
 ip-cidr, 43.175.236.0/24, Anycast
 ip-cidr, 43.175.237.0/24, Anycast
 ip-cidr, 43.175.238.0/24, Anycast
+ip-cidr, 43.225.84.0/23, Anycast
 ip-cidr, 43.230.48.0/24, Anycast
 ip-cidr, 43.230.49.0/24, Anycast
 ip-cidr, 43.230.50.0/24, Anycast
@@ -356,12 +349,14 @@ ip-cidr, 43.245.41.0/24, Anycast
 ip-cidr, 43.245.43.0/24, Anycast
 ip-cidr, 43.247.170.0/24, Anycast
 ip-cidr, 43.247.171.0/24, Anycast
+ip-cidr, 43.251.40.0/24, Anycast
 ip-cidr, 44.16.50.0/23, Anycast
 ip-cidr, 45.8.211.0/24, Anycast
 ip-cidr, 45.12.30.0/23, Anycast
 ip-cidr, 45.13.3.0/24, Anycast
 ip-cidr, 45.14.174.0/24, Anycast
 ip-cidr, 45.38.24.0/24, Anycast
+ip-cidr, 45.40.220.0/22, Anycast
 ip-cidr, 45.45.253.0/24, Anycast
 ip-cidr, 45.54.11.0/24, Anycast
 ip-cidr, 45.54.17.0/24, Anycast
@@ -412,6 +407,7 @@ ip-cidr, 45.54.84.0/24, Anycast
 ip-cidr, 45.54.85.0/24, Anycast
 ip-cidr, 45.54.86.0/24, Anycast
 ip-cidr, 45.54.87.0/24, Anycast
+ip-cidr, 45.54.88.0/24, Anycast
 ip-cidr, 45.54.92.0/24, Anycast
 ip-cidr, 45.54.97.0/24, Anycast
 ip-cidr, 45.57.8.0/24, Anycast
@@ -428,7 +424,6 @@ ip-cidr, 45.60.15.0/24, Anycast
 ip-cidr, 45.60.16.0/24, Anycast
 ip-cidr, 45.60.21.0/24, Anycast
 ip-cidr, 45.60.22.0/24, Anycast
-ip-cidr, 45.60.24.0/24, Anycast
 ip-cidr, 45.60.27.0/24, Anycast
 ip-cidr, 45.60.28.0/24, Anycast
 ip-cidr, 45.60.30.0/24, Anycast
@@ -436,6 +431,7 @@ ip-cidr, 45.60.33.0/24, Anycast
 ip-cidr, 45.60.34.0/24, Anycast
 ip-cidr, 45.60.35.0/24, Anycast
 ip-cidr, 45.60.36.0/24, Anycast
+ip-cidr, 45.60.43.0/24, Anycast
 ip-cidr, 45.60.46.0/24, Anycast
 ip-cidr, 45.60.47.0/24, Anycast
 ip-cidr, 45.60.48.0/24, Anycast
@@ -444,7 +440,6 @@ ip-cidr, 45.60.64.0/24, Anycast
 ip-cidr, 45.60.65.0/24, Anycast
 ip-cidr, 45.60.66.0/24, Anycast
 ip-cidr, 45.60.67.0/24, Anycast
-ip-cidr, 45.60.75.0/24, Anycast
 ip-cidr, 45.60.76.0/24, Anycast
 ip-cidr, 45.60.78.0/24, Anycast
 ip-cidr, 45.60.79.0/24, Anycast
@@ -460,7 +455,6 @@ ip-cidr, 45.60.137.0/24, Anycast
 ip-cidr, 45.60.138.0/24, Anycast
 ip-cidr, 45.60.143.0/24, Anycast
 ip-cidr, 45.60.144.0/24, Anycast
-ip-cidr, 45.60.150.0/24, Anycast
 ip-cidr, 45.60.153.0/24, Anycast
 ip-cidr, 45.60.154.0/24, Anycast
 ip-cidr, 45.60.155.0/24, Anycast
@@ -485,6 +479,7 @@ ip-cidr, 45.60.215.0/24, Anycast
 ip-cidr, 45.60.216.0/24, Anycast
 ip-cidr, 45.60.221.0/24, Anycast
 ip-cidr, 45.60.222.0/24, Anycast
+ip-cidr, 45.60.230.0/24, Anycast
 ip-cidr, 45.60.239.0/24, Anycast
 ip-cidr, 45.60.242.0/24, Anycast
 ip-cidr, 45.60.243.0/24, Anycast
@@ -541,6 +536,7 @@ ip-cidr, 45.155.4.0/23, Anycast
 ip-cidr, 45.156.1.0/24, Anycast
 ip-cidr, 45.159.34.0/24, Anycast
 ip-cidr, 45.159.216.0/22, Anycast
+ip-cidr, 45.171.39.0/24, Anycast
 ip-cidr, 45.194.53.0/24, Anycast
 ip-cidr, 45.195.62.0/24, Anycast
 ip-cidr, 45.205.0.0/24, Anycast
@@ -555,8 +551,8 @@ ip-cidr, 45.223.32.0/24, Anycast
 ip-cidr, 45.223.33.0/24, Anycast
 ip-cidr, 45.223.34.0/24, Anycast
 ip-cidr, 45.223.44.0/24, Anycast
-ip-cidr, 45.223.57.0/24, Anycast
-ip-cidr, 45.223.99.0/24, Anycast
+ip-cidr, 45.223.97.0/24, Anycast
+ip-cidr, 45.223.98.0/24, Anycast
 ip-cidr, 45.223.106.0/24, Anycast
 ip-cidr, 45.223.107.0/24, Anycast
 ip-cidr, 45.223.108.0/24, Anycast
@@ -566,7 +562,6 @@ ip-cidr, 45.223.130.0/24, Anycast
 ip-cidr, 45.223.132.0/24, Anycast
 ip-cidr, 45.223.140.0/24, Anycast
 ip-cidr, 45.223.141.0/24, Anycast
-ip-cidr, 45.223.162.0/24, Anycast
 ip-cidr, 45.223.163.0/24, Anycast
 ip-cidr, 45.223.168.0/24, Anycast
 ip-cidr, 45.223.169.0/24, Anycast
@@ -574,11 +569,10 @@ ip-cidr, 45.223.170.0/24, Anycast
 ip-cidr, 45.223.171.0/24, Anycast
 ip-cidr, 45.223.195.0/24, Anycast
 ip-cidr, 45.223.225.0/24, Anycast
-ip-cidr, 45.223.226.0/24, Anycast
 ip-cidr, 45.223.243.0/24, Anycast
 ip-cidr, 45.223.245.0/24, Anycast
 ip-cidr, 45.223.246.0/24, Anycast
-ip-cidr, 46.3.0.0/24, Anycast
+ip-cidr, 46.3.2.0/24, Anycast
 ip-cidr, 46.8.8.0/24, Anycast
 ip-cidr, 46.8.9.0/24, Anycast
 ip-cidr, 46.8.152.0/24, Anycast
@@ -603,7 +597,6 @@ ip-cidr, 46.243.228.0/22, Anycast
 ip-cidr, 46.251.228.0/24, Anycast
 ip-cidr, 46.254.92.0/24, Anycast
 ip-cidr, 46.254.93.0/24, Anycast
-ip-cidr, 47.43.24.0/21, Anycast
 ip-cidr, 47.246.39.0/24, Anycast
 ip-cidr, 47.246.62.0/24, Anycast
 ip-cidr, 50.31.242.0/24, Anycast
@@ -636,8 +629,6 @@ ip-cidr, 64.4.174.0/24, Anycast
 ip-cidr, 64.6.64.0/24, Anycast
 ip-cidr, 64.6.65.0/24, Anycast
 ip-cidr, 64.12.48.0/24, Anycast
-ip-cidr, 64.29.144.0/20, Anycast
-ip-cidr, 64.31.5.0/24, Anycast
 ip-cidr, 64.47.197.0/24, Anycast
 ip-cidr, 64.66.240.0/24, Anycast
 ip-cidr, 64.66.241.0/24, Anycast
@@ -664,9 +655,11 @@ ip-cidr, 64.185.183.0/24, Anycast
 ip-cidr, 64.185.186.0/24, Anycast
 ip-cidr, 64.185.190.0/24, Anycast
 ip-cidr, 64.202.97.0/24, Anycast
+ip-cidr, 64.255.193.0/24, Anycast
 ip-cidr, 65.22.1.0/24, Anycast
 ip-cidr, 65.22.2.0/24, Anycast
 ip-cidr, 65.22.4.0/24, Anycast
+ip-cidr, 65.22.5.0/24, Anycast
 ip-cidr, 65.22.6.0/24, Anycast
 ip-cidr, 65.22.7.0/24, Anycast
 ip-cidr, 65.22.8.0/24, Anycast
@@ -837,7 +830,7 @@ ip-cidr, 65.22.247.0/24, Anycast
 ip-cidr, 65.61.188.0/24, Anycast
 ip-cidr, 65.84.0.0/15, Anycast
 ip-cidr, 65.110.63.0/24, Anycast
-ip-cidr, 66.22.70.0/24, Anycast
+ip-cidr, 66.22.68.0/24, Anycast
 ip-cidr, 66.22.87.0/24, Anycast
 ip-cidr, 66.28.0.0/16, Anycast
 ip-cidr, 66.51.120.0/23, Anycast
@@ -864,12 +857,12 @@ ip-cidr, 66.235.200.0/24, Anycast
 ip-cidr, 66.241.124.0/23, Anycast
 ip-cidr, 66.241.127.0/24, Anycast
 ip-cidr, 66.241.150.0/24, Anycast
-ip-cidr, 66.242.1.0/24, Anycast
 ip-cidr, 66.242.2.0/24, Anycast
 ip-cidr, 66.254.114.0/24, Anycast
 ip-cidr, 66.254.126.0/24, Anycast
 ip-cidr, 66.254.127.0/24, Anycast
 ip-cidr, 67.22.53.0/24, Anycast
+ip-cidr, 67.141.8.0/21, Anycast
 ip-cidr, 67.199.239.0/24, Anycast
 ip-cidr, 67.199.248.0/24, Anycast
 ip-cidr, 67.202.213.0/24, Anycast
@@ -884,7 +877,6 @@ ip-cidr, 67.228.252.0/23, Anycast
 ip-cidr, 67.228.254.0/23, Anycast
 ip-cidr, 68.70.204.0/24, Anycast
 ip-cidr, 68.70.205.0/24, Anycast
-ip-cidr, 68.114.180.0/22, Anycast
 ip-cidr, 68.142.68.0/22, Anycast
 ip-cidr, 68.142.254.0/24, Anycast
 ip-cidr, 68.142.255.0/24, Anycast
@@ -902,7 +894,6 @@ ip-cidr, 69.16.222.0/23, Anycast
 ip-cidr, 69.20.95.0/24, Anycast
 ip-cidr, 69.28.143.0/24, Anycast
 ip-cidr, 69.28.180.0/24, Anycast
-ip-cidr, 69.40.16.0/20, Anycast
 ip-cidr, 69.48.145.0/24, Anycast
 ip-cidr, 69.48.216.0/24, Anycast
 ip-cidr, 69.48.218.0/24, Anycast
@@ -933,8 +924,7 @@ ip-cidr, 70.40.12.0/24, Anycast
 ip-cidr, 70.40.13.0/24, Anycast
 ip-cidr, 70.40.14.0/24, Anycast
 ip-cidr, 70.40.15.0/24, Anycast
-ip-cidr, 71.28.32.0/20, Anycast
-ip-cidr, 71.29.20.0/22, Anycast
+ip-cidr, 71.31.112.0/21, Anycast
 ip-cidr, 72.0.48.0/24, Anycast
 ip-cidr, 72.0.49.0/24, Anycast
 ip-cidr, 72.0.50.0/24, Anycast
@@ -953,7 +943,6 @@ ip-cidr, 72.0.62.0/24, Anycast
 ip-cidr, 72.0.63.0/24, Anycast
 ip-cidr, 72.14.192.0/18, Anycast
 ip-cidr, 72.18.77.0/24, Anycast
-ip-cidr, 72.19.3.0/24, Anycast
 ip-cidr, 72.21.80.0/24, Anycast
 ip-cidr, 72.29.125.0/24, Anycast
 ip-cidr, 72.42.112.0/24, Anycast
@@ -984,6 +973,7 @@ ip-cidr, 72.52.12.0/24, Anycast
 ip-cidr, 72.52.13.0/24, Anycast
 ip-cidr, 72.52.14.0/24, Anycast
 ip-cidr, 72.52.15.0/24, Anycast
+ip-cidr, 72.200.254.0/24, Anycast
 ip-cidr, 72.246.46.0/24, Anycast
 ip-cidr, 74.85.0.0/19, Anycast
 ip-cidr, 74.112.186.0/24, Anycast
@@ -996,9 +986,10 @@ ip-cidr, 74.119.148.0/24, Anycast
 ip-cidr, 74.120.1.0/24, Anycast
 ip-cidr, 74.120.2.0/24, Anycast
 ip-cidr, 74.120.184.0/24, Anycast
+ip-cidr, 74.121.124.0/24, Anycast
+ip-cidr, 74.121.125.0/24, Anycast
 ip-cidr, 74.122.171.0/24, Anycast
 ip-cidr, 75.98.6.0/24, Anycast
-ip-cidr, 75.117.8.0/21, Anycast
 ip-cidr, 76.52.0.0/16, Anycast
 ip-cidr, 76.76.0.0/24, Anycast
 ip-cidr, 76.76.1.0/24, Anycast
@@ -1032,7 +1023,6 @@ ip-cidr, 77.55.162.0/23, Anycast
 ip-cidr, 77.55.164.0/23, Anycast
 ip-cidr, 77.55.166.0/24, Anycast
 ip-cidr, 77.55.167.0/24, Anycast
-ip-cidr, 77.55.172.0/23, Anycast
 ip-cidr, 77.55.174.0/23, Anycast
 ip-cidr, 77.55.179.0/24, Anycast
 ip-cidr, 77.55.182.0/23, Anycast
@@ -1115,13 +1105,11 @@ ip-cidr, 92.122.123.0/24, Anycast
 ip-cidr, 92.223.77.0/24, Anycast
 ip-cidr, 92.223.84.0/24, Anycast
 ip-cidr, 92.223.100.0/24, Anycast
-ip-cidr, 92.249.37.0/24, Anycast
 ip-cidr, 92.249.38.0/24, Anycast
 ip-cidr, 93.93.51.0/24, Anycast
 ip-cidr, 93.113.175.0/24, Anycast
 ip-cidr, 93.114.64.0/23, Anycast
 ip-cidr, 93.115.247.0/24, Anycast
-ip-cidr, 93.184.216.0/24, Anycast
 ip-cidr, 93.191.168.0/24, Anycast
 ip-cidr, 93.191.169.0/24, Anycast
 ip-cidr, 94.16.23.0/24, Anycast
@@ -1130,8 +1118,10 @@ ip-cidr, 94.140.14.0/24, Anycast
 ip-cidr, 94.140.15.0/24, Anycast
 ip-cidr, 94.143.229.0/24, Anycast
 ip-cidr, 94.152.255.0/24, Anycast
+ip-cidr, 94.188.236.0/24, Anycast
 ip-cidr, 94.242.228.0/22, Anycast
 ip-cidr, 94.247.142.0/24, Anycast
+ip-cidr, 95.57.118.0/24, Anycast
 ip-cidr, 95.85.95.0/24, Anycast
 ip-cidr, 95.100.174.0/24, Anycast
 ip-cidr, 95.100.175.0/24, Anycast
@@ -1143,7 +1133,6 @@ ip-cidr, 96.16.208.0/24, Anycast
 ip-cidr, 96.16.209.0/24, Anycast
 ip-cidr, 96.16.210.0/24, Anycast
 ip-cidr, 96.16.211.0/24, Anycast
-ip-cidr, 96.37.160.0/19, Anycast
 ip-cidr, 96.45.35.0/24, Anycast
 ip-cidr, 96.45.45.0/24, Anycast
 ip-cidr, 96.45.46.0/24, Anycast
@@ -1158,6 +1147,7 @@ ip-cidr, 97.74.104.0/23, Anycast
 ip-cidr, 97.74.106.0/23, Anycast
 ip-cidr, 97.74.108.0/23, Anycast
 ip-cidr, 97.74.110.0/23, Anycast
+ip-cidr, 98.23.240.0/22, Anycast
 ip-cidr, 98.96.233.0/24, Anycast
 ip-cidr, 98.98.60.0/24, Anycast
 ip-cidr, 98.98.61.0/24, Anycast
@@ -1183,6 +1173,7 @@ ip-cidr, 103.11.212.0/24, Anycast
 ip-cidr, 103.11.214.0/24, Anycast
 ip-cidr, 103.14.246.0/23, Anycast
 ip-cidr, 103.21.244.0/24, Anycast
+ip-cidr, 103.28.203.0/24, Anycast
 ip-cidr, 103.28.248.0/24, Anycast
 ip-cidr, 103.28.249.0/24, Anycast
 ip-cidr, 103.28.250.0/24, Anycast
@@ -1197,6 +1188,7 @@ ip-cidr, 103.49.83.0/24, Anycast
 ip-cidr, 103.56.211.0/24, Anycast
 ip-cidr, 103.73.115.0/24, Anycast
 ip-cidr, 103.77.224.0/24, Anycast
+ip-cidr, 103.78.79.0/24, Anycast
 ip-cidr, 103.80.4.0/24, Anycast
 ip-cidr, 103.80.5.0/24, Anycast
 ip-cidr, 103.80.6.0/24, Anycast
@@ -1207,14 +1199,12 @@ ip-cidr, 103.86.99.0/24, Anycast
 ip-cidr, 103.93.64.0/24, Anycast
 ip-cidr, 103.93.66.0/24, Anycast
 ip-cidr, 103.127.19.0/24, Anycast
-ip-cidr, 103.136.169.0/24, Anycast
 ip-cidr, 103.141.214.0/24, Anycast
 ip-cidr, 103.144.108.0/24, Anycast
 ip-cidr, 103.144.109.0/24, Anycast
 ip-cidr, 103.150.250.0/24, Anycast
 ip-cidr, 103.150.251.0/24, Anycast
 ip-cidr, 103.160.204.0/24, Anycast
-ip-cidr, 103.165.99.0/24, Anycast
 ip-cidr, 103.165.152.0/24, Anycast
 ip-cidr, 103.165.160.0/24, Anycast
 ip-cidr, 103.165.192.0/24, Anycast
@@ -1222,8 +1212,8 @@ ip-cidr, 103.165.193.0/24, Anycast
 ip-cidr, 103.168.156.0/24, Anycast
 ip-cidr, 103.168.157.0/24, Anycast
 ip-cidr, 103.169.142.0/24, Anycast
-ip-cidr, 103.172.110.0/24, Anycast
 ip-cidr, 103.172.110.0/23, Anycast
+ip-cidr, 103.172.110.0/24, Anycast
 ip-cidr, 103.172.191.0/24, Anycast
 ip-cidr, 103.177.50.0/23, Anycast
 ip-cidr, 103.179.36.0/24, Anycast
@@ -1235,7 +1225,6 @@ ip-cidr, 103.189.3.0/24, Anycast
 ip-cidr, 103.203.221.0/24, Anycast
 ip-cidr, 103.242.79.0/24, Anycast
 ip-cidr, 103.247.36.0/24, Anycast
-ip-cidr, 103.247.37.0/24, Anycast
 ip-cidr, 103.247.185.0/24, Anycast
 ip-cidr, 103.248.10.0/24, Anycast
 ip-cidr, 103.249.70.0/24, Anycast
@@ -1421,6 +1410,7 @@ ip-cidr, 104.96.180.0/24, Anycast
 ip-cidr, 104.96.181.0/24, Anycast
 ip-cidr, 104.102.245.0/24, Anycast
 ip-cidr, 104.104.58.0/24, Anycast
+ip-cidr, 104.107.211.0/24, Anycast
 ip-cidr, 104.109.10.0/24, Anycast
 ip-cidr, 104.109.11.0/24, Anycast
 ip-cidr, 104.133.128.0/23, Anycast
@@ -1431,7 +1421,6 @@ ip-cidr, 104.156.80.0/24, Anycast
 ip-cidr, 104.156.81.0/24, Anycast
 ip-cidr, 104.156.84.0/24, Anycast
 ip-cidr, 104.156.85.0/24, Anycast
-ip-cidr, 104.165.67.0/24, Anycast
 ip-cidr, 104.192.141.0/24, Anycast
 ip-cidr, 104.193.15.0/24, Anycast
 ip-cidr, 104.225.32.0/24, Anycast
@@ -1455,8 +1444,6 @@ ip-cidr, 104.249.160.0/24, Anycast
 ip-cidr, 104.249.161.0/24, Anycast
 ip-cidr, 104.254.85.0/24, Anycast
 ip-cidr, 104.254.140.0/24, Anycast
-ip-cidr, 106.2.159.0/24, Anycast
-ip-cidr, 107.150.176.0/24, Anycast
 ip-cidr, 107.151.153.0/24, Anycast
 ip-cidr, 107.154.3.0/24, Anycast
 ip-cidr, 107.154.36.0/24, Anycast
@@ -1472,7 +1459,6 @@ ip-cidr, 107.154.81.0/24, Anycast
 ip-cidr, 107.154.84.0/24, Anycast
 ip-cidr, 107.154.100.0/24, Anycast
 ip-cidr, 107.154.101.0/24, Anycast
-ip-cidr, 107.154.125.0/24, Anycast
 ip-cidr, 107.154.128.0/24, Anycast
 ip-cidr, 107.154.131.0/24, Anycast
 ip-cidr, 107.154.133.0/24, Anycast
@@ -1482,7 +1468,6 @@ ip-cidr, 107.154.139.0/24, Anycast
 ip-cidr, 107.154.146.0/24, Anycast
 ip-cidr, 107.154.147.0/24, Anycast
 ip-cidr, 107.154.150.0/24, Anycast
-ip-cidr, 107.154.151.0/24, Anycast
 ip-cidr, 107.154.155.0/24, Anycast
 ip-cidr, 107.154.156.0/24, Anycast
 ip-cidr, 107.154.157.0/24, Anycast
@@ -1494,19 +1479,17 @@ ip-cidr, 107.154.183.0/24, Anycast
 ip-cidr, 107.154.184.0/24, Anycast
 ip-cidr, 107.154.185.0/24, Anycast
 ip-cidr, 107.154.192.0/24, Anycast
+ip-cidr, 107.154.193.0/24, Anycast
 ip-cidr, 107.154.194.0/24, Anycast
 ip-cidr, 107.154.196.0/24, Anycast
 ip-cidr, 107.154.197.0/24, Anycast
 ip-cidr, 107.154.199.0/24, Anycast
 ip-cidr, 107.154.200.0/24, Anycast
-ip-cidr, 107.154.201.0/24, Anycast
-ip-cidr, 107.154.205.0/24, Anycast
 ip-cidr, 107.154.206.0/24, Anycast
 ip-cidr, 107.154.207.0/24, Anycast
 ip-cidr, 107.154.210.0/24, Anycast
 ip-cidr, 107.154.216.0/24, Anycast
 ip-cidr, 107.154.217.0/24, Anycast
-ip-cidr, 107.154.226.0/24, Anycast
 ip-cidr, 107.154.227.0/24, Anycast
 ip-cidr, 107.154.228.0/24, Anycast
 ip-cidr, 107.154.246.0/24, Anycast
@@ -1610,16 +1593,16 @@ ip-cidr, 120.29.253.0/24, Anycast
 ip-cidr, 120.29.254.0/24, Anycast
 ip-cidr, 120.53.52.0/23, Anycast
 ip-cidr, 121.4.4.0/22, Anycast
-ip-cidr, 122.10.221.0/24, Anycast
 ip-cidr, 124.71.251.0/24, Anycast
-ip-cidr, 125.208.32.0/24, Anycast
 ip-cidr, 125.208.33.0/24, Anycast
 ip-cidr, 125.208.42.0/24, Anycast
 ip-cidr, 125.208.43.0/24, Anycast
+ip-cidr, 125.208.44.0/24, Anycast
 ip-cidr, 125.208.49.0/24, Anycast
 ip-cidr, 128.1.19.0/24, Anycast
 ip-cidr, 128.1.20.0/24, Anycast
 ip-cidr, 128.1.21.0/24, Anycast
+ip-cidr, 128.1.22.0/24, Anycast
 ip-cidr, 128.1.23.0/24, Anycast
 ip-cidr, 128.1.24.0/24, Anycast
 ip-cidr, 128.1.25.0/24, Anycast
@@ -1638,7 +1621,6 @@ ip-cidr, 130.41.253.0/24, Anycast
 ip-cidr, 130.137.29.0/24, Anycast
 ip-cidr, 130.211.0.0/17, Anycast
 ip-cidr, 130.250.137.0/24, Anycast
-ip-cidr, 131.72.28.0/24, Anycast
 ip-cidr, 131.153.36.0/24, Anycast
 ip-cidr, 131.253.21.0/24, Anycast
 ip-cidr, 131.253.33.0/24, Anycast
@@ -1646,10 +1628,10 @@ ip-cidr, 134.65.170.0/24, Anycast
 ip-cidr, 134.65.171.0/24, Anycast
 ip-cidr, 134.195.4.0/24, Anycast
 ip-cidr, 134.195.26.0/23, Anycast
+ip-cidr, 136.143.172.0/24, Anycast
 ip-cidr, 136.143.173.0/24, Anycast
 ip-cidr, 136.175.24.0/24, Anycast
 ip-cidr, 136.175.25.0/24, Anycast
-ip-cidr, 136.175.104.0/24, Anycast
 ip-cidr, 136.175.106.0/24, Anycast
 ip-cidr, 136.175.107.0/24, Anycast
 ip-cidr, 137.66.0.0/23, Anycast
@@ -1675,7 +1657,6 @@ ip-cidr, 137.66.38.0/23, Anycast
 ip-cidr, 137.66.40.0/24, Anycast
 ip-cidr, 137.66.42.0/23, Anycast
 ip-cidr, 137.66.44.0/23, Anycast
-ip-cidr, 137.66.46.0/23, Anycast
 ip-cidr, 137.66.48.0/23, Anycast
 ip-cidr, 137.66.50.0/23, Anycast
 ip-cidr, 137.66.52.0/23, Anycast
@@ -1730,6 +1711,7 @@ ip-cidr, 145.36.144.0/24, Anycast
 ip-cidr, 145.116.218.0/24, Anycast
 ip-cidr, 145.116.219.0/24, Anycast
 ip-cidr, 146.19.21.0/24, Anycast
+ip-cidr, 146.19.252.0/24, Anycast
 ip-cidr, 146.75.0.0/17, Anycast
 ip-cidr, 146.88.242.0/24, Anycast
 ip-cidr, 146.88.243.0/24, Anycast
@@ -1743,7 +1725,6 @@ ip-cidr, 146.88.250.0/24, Anycast
 ip-cidr, 146.88.251.0/24, Anycast
 ip-cidr, 146.88.252.0/24, Anycast
 ip-cidr, 146.88.253.0/24, Anycast
-ip-cidr, 146.88.254.0/24, Anycast
 ip-cidr, 146.88.255.0/24, Anycast
 ip-cidr, 146.112.41.0/24, Anycast
 ip-cidr, 146.112.58.0/24, Anycast
@@ -1765,7 +1746,6 @@ ip-cidr, 147.185.34.0/24, Anycast
 ip-cidr, 147.185.161.0/24, Anycast
 ip-cidr, 147.185.221.0/24, Anycast
 ip-cidr, 147.189.238.0/24, Anycast
-ip-cidr, 148.59.176.0/24, Anycast
 ip-cidr, 148.80.68.0/22, Anycast
 ip-cidr, 148.163.192.0/24, Anycast
 ip-cidr, 148.163.193.0/24, Anycast
@@ -1773,8 +1753,8 @@ ip-cidr, 148.163.194.0/24, Anycast
 ip-cidr, 148.163.196.0/24, Anycast
 ip-cidr, 148.163.197.0/24, Anycast
 ip-cidr, 148.163.198.0/24, Anycast
+ip-cidr, 148.163.203.0/24, Anycast
 ip-cidr, 148.163.205.0/24, Anycast
-ip-cidr, 148.163.206.0/24, Anycast
 ip-cidr, 148.163.209.0/24, Anycast
 ip-cidr, 148.163.210.0/24, Anycast
 ip-cidr, 148.163.211.0/24, Anycast
@@ -1785,8 +1765,6 @@ ip-cidr, 148.163.245.0/24, Anycast
 ip-cidr, 148.163.248.0/24, Anycast
 ip-cidr, 148.163.249.0/24, Anycast
 ip-cidr, 148.163.254.0/24, Anycast
-ip-cidr, 148.253.232.0/24, Anycast
-ip-cidr, 149.20.126.0/24, Anycast
 ip-cidr, 149.112.112.0/24, Anycast
 ip-cidr, 149.112.149.0/24, Anycast
 ip-cidr, 149.112.160.0/24, Anycast
@@ -1813,6 +1791,7 @@ ip-cidr, 150.171.32.0/24, Anycast
 ip-cidr, 150.171.41.0/24, Anycast
 ip-cidr, 150.171.43.0/24, Anycast
 ip-cidr, 150.171.44.0/24, Anycast
+ip-cidr, 150.171.254.0/24, Anycast
 ip-cidr, 150.195.214.0/24, Anycast
 ip-cidr, 151.101.0.0/22, Anycast
 ip-cidr, 151.101.0.0/16, Anycast
@@ -1825,8 +1804,7 @@ ip-cidr, 151.139.255.0/24, Anycast
 ip-cidr, 151.249.124.0/24, Anycast
 ip-cidr, 151.249.126.0/24, Anycast
 ip-cidr, 152.89.172.0/23, Anycast
-ip-cidr, 152.195.8.0/24, Anycast
-ip-cidr, 152.195.12.0/24, Anycast
+ip-cidr, 152.195.54.0/24, Anycast
 ip-cidr, 154.15.0.0/16, Anycast
 ip-cidr, 154.16.94.0/24, Anycast
 ip-cidr, 154.52.31.0/24, Anycast
@@ -1836,7 +1814,6 @@ ip-cidr, 154.85.99.0/24, Anycast
 ip-cidr, 154.92.9.0/24, Anycast
 ip-cidr, 154.92.24.0/24, Anycast
 ip-cidr, 154.92.31.0/24, Anycast
-ip-cidr, 154.92.137.0/24, Anycast
 ip-cidr, 154.194.2.0/24, Anycast
 ip-cidr, 154.197.75.0/24, Anycast
 ip-cidr, 154.197.80.0/24, Anycast
@@ -1932,10 +1909,10 @@ ip-cidr, 157.53.229.0/24, Anycast
 ip-cidr, 157.53.230.0/24, Anycast
 ip-cidr, 157.53.232.0/24, Anycast
 ip-cidr, 157.53.234.0/24, Anycast
+ip-cidr, 157.53.235.0/24, Anycast
 ip-cidr, 157.53.236.0/24, Anycast
 ip-cidr, 157.53.238.0/24, Anycast
 ip-cidr, 157.53.240.0/24, Anycast
-ip-cidr, 157.53.241.0/24, Anycast
 ip-cidr, 157.53.242.0/24, Anycast
 ip-cidr, 157.53.244.0/24, Anycast
 ip-cidr, 157.53.245.0/24, Anycast
@@ -1956,7 +1933,6 @@ ip-cidr, 159.246.55.0/24, Anycast
 ip-cidr, 160.79.104.0/23, Anycast
 ip-cidr, 160.123.255.0/24, Anycast
 ip-cidr, 160.153.0.0/24, Anycast
-ip-cidr, 161.36.111.0/24, Anycast
 ip-cidr, 161.38.184.0/24, Anycast
 ip-cidr, 161.117.127.0/24, Anycast
 ip-cidr, 161.117.128.0/24, Anycast
@@ -1974,7 +1950,6 @@ ip-cidr, 161.232.31.0/24, Anycast
 ip-cidr, 161.232.32.0/24, Anycast
 ip-cidr, 161.232.33.0/24, Anycast
 ip-cidr, 161.232.72.0/24, Anycast
-ip-cidr, 162.10.223.0/24, Anycast
 ip-cidr, 162.14.0.0/22, Anycast
 ip-cidr, 162.14.4.0/22, Anycast
 ip-cidr, 162.14.8.0/22, Anycast
@@ -1987,8 +1962,10 @@ ip-cidr, 162.14.45.0/24, Anycast
 ip-cidr, 162.14.46.0/24, Anycast
 ip-cidr, 162.14.47.0/24, Anycast
 ip-cidr, 162.44.104.0/22, Anycast
+ip-cidr, 162.62.80.0/22, Anycast
 ip-cidr, 162.62.156.0/23, Anycast
 ip-cidr, 162.62.158.0/23, Anycast
+ip-cidr, 162.62.160.0/22, Anycast
 ip-cidr, 162.120.94.0/24, Anycast
 ip-cidr, 162.125.248.0/24, Anycast
 ip-cidr, 162.159.0.0/24, Anycast
@@ -2019,8 +1996,8 @@ ip-cidr, 162.159.24.0/24, Anycast
 ip-cidr, 162.159.25.0/24, Anycast
 ip-cidr, 162.159.26.0/24, Anycast
 ip-cidr, 162.159.27.0/24, Anycast
-ip-cidr, 162.159.32.0/20, Anycast
 ip-cidr, 162.159.32.0/23, Anycast
+ip-cidr, 162.159.32.0/20, Anycast
 ip-cidr, 162.159.34.0/23, Anycast
 ip-cidr, 162.159.36.0/24, Anycast
 ip-cidr, 162.159.40.0/23, Anycast
@@ -2048,10 +2025,8 @@ ip-cidr, 162.217.31.0/24, Anycast
 ip-cidr, 162.218.159.0/24, Anycast
 ip-cidr, 162.219.48.0/24, Anycast
 ip-cidr, 162.219.49.0/24, Anycast
-ip-cidr, 162.219.50.0/24, Anycast
 ip-cidr, 162.219.54.0/24, Anycast
 ip-cidr, 162.219.55.0/24, Anycast
-ip-cidr, 162.219.100.0/22, Anycast
 ip-cidr, 162.219.224.0/24, Anycast
 ip-cidr, 162.219.225.0/24, Anycast
 ip-cidr, 162.219.226.0/24, Anycast
@@ -2073,7 +2048,6 @@ ip-cidr, 162.254.125.0/24, Anycast
 ip-cidr, 163.47.176.0/24, Anycast
 ip-cidr, 163.114.216.0/24, Anycast
 ip-cidr, 163.114.217.0/24, Anycast
-ip-cidr, 163.116.200.0/24, Anycast
 ip-cidr, 163.123.163.0/24, Anycast
 ip-cidr, 163.171.164.0/24, Anycast
 ip-cidr, 163.171.166.0/24, Anycast
@@ -2083,7 +2057,6 @@ ip-cidr, 163.237.210.0/24, Anycast
 ip-cidr, 164.38.155.0/24, Anycast
 ip-cidr, 164.55.240.0/24, Anycast
 ip-cidr, 164.55.241.0/24, Anycast
-ip-cidr, 164.90.86.0/24, Anycast
 ip-cidr, 165.85.146.0/23, Anycast
 ip-cidr, 165.85.253.0/24, Anycast
 ip-cidr, 165.140.134.0/24, Anycast
@@ -2164,14 +2137,16 @@ ip-cidr, 170.114.52.0/24, Anycast
 ip-cidr, 170.114.78.0/24, Anycast
 ip-cidr, 170.118.155.0/24, Anycast
 ip-cidr, 170.176.152.0/24, Anycast
+ip-cidr, 170.176.159.0/24, Anycast
 ip-cidr, 170.176.220.0/24, Anycast
 ip-cidr, 170.176.221.0/24, Anycast
 ip-cidr, 170.176.222.0/24, Anycast
 ip-cidr, 170.176.223.0/24, Anycast
+ip-cidr, 170.178.191.0/24, Anycast
 ip-cidr, 170.210.180.0/24, Anycast
 ip-cidr, 170.247.170.0/24, Anycast
-ip-cidr, 172.64.32.0/20, Anycast
 ip-cidr, 172.64.32.0/24, Anycast
+ip-cidr, 172.64.32.0/20, Anycast
 ip-cidr, 172.64.33.0/24, Anycast
 ip-cidr, 172.64.34.0/24, Anycast
 ip-cidr, 172.64.35.0/24, Anycast
@@ -2260,7 +2235,10 @@ ip-cidr, 172.85.88.0/24, Anycast
 ip-cidr, 172.85.89.0/24, Anycast
 ip-cidr, 172.85.90.0/23, Anycast
 ip-cidr, 172.98.58.0/24, Anycast
+ip-cidr, 172.110.143.0/24, Anycast
 ip-cidr, 172.111.0.0/24, Anycast
+ip-cidr, 173.186.144.0/21, Anycast
+ip-cidr, 173.188.64.0/21, Anycast
 ip-cidr, 173.194.0.0/16, Anycast
 ip-cidr, 173.199.96.0/24, Anycast
 ip-cidr, 173.201.64.0/23, Anycast
@@ -2291,6 +2269,7 @@ ip-cidr, 176.97.158.0/24, Anycast
 ip-cidr, 176.124.112.0/24, Anycast
 ip-cidr, 176.124.113.0/24, Anycast
 ip-cidr, 176.126.206.0/23, Anycast
+ip-cidr, 176.241.232.0/21, Anycast
 ip-cidr, 178.239.128.0/24, Anycast
 ip-cidr, 178.248.232.0/23, Anycast
 ip-cidr, 178.248.234.0/23, Anycast
@@ -2306,6 +2285,7 @@ ip-cidr, 184.26.160.0/24, Anycast
 ip-cidr, 184.28.92.0/24, Anycast
 ip-cidr, 184.29.148.0/24, Anycast
 ip-cidr, 184.29.149.0/24, Anycast
+ip-cidr, 184.29.150.0/24, Anycast
 ip-cidr, 184.29.151.0/24, Anycast
 ip-cidr, 184.29.153.0/24, Anycast
 ip-cidr, 184.29.154.0/24, Anycast
@@ -2348,8 +2328,8 @@ ip-cidr, 185.59.218.0/24, Anycast
 ip-cidr, 185.65.148.0/23, Anycast
 ip-cidr, 185.65.150.0/23, Anycast
 ip-cidr, 185.70.162.0/24, Anycast
+ip-cidr, 185.71.138.0/24, Anycast
 ip-cidr, 185.73.224.0/24, Anycast
-ip-cidr, 185.78.175.0/24, Anycast
 ip-cidr, 185.80.188.0/24, Anycast
 ip-cidr, 185.80.198.0/24, Anycast
 ip-cidr, 185.80.199.0/24, Anycast
@@ -2357,7 +2337,6 @@ ip-cidr, 185.81.120.0/24, Anycast
 ip-cidr, 185.81.121.0/24, Anycast
 ip-cidr, 185.81.208.0/24, Anycast
 ip-cidr, 185.84.240.0/24, Anycast
-ip-cidr, 185.85.196.0/24, Anycast
 ip-cidr, 185.88.148.0/22, Anycast
 ip-cidr, 185.89.218.0/24, Anycast
 ip-cidr, 185.89.219.0/24, Anycast
@@ -2418,12 +2397,11 @@ ip-cidr, 185.174.138.0/24, Anycast
 ip-cidr, 185.176.24.0/24, Anycast
 ip-cidr, 185.176.26.0/24, Anycast
 ip-cidr, 185.180.142.0/24, Anycast
+ip-cidr, 185.184.222.0/24, Anycast
 ip-cidr, 185.185.15.0/24, Anycast
 ip-cidr, 185.185.91.0/24, Anycast
 ip-cidr, 185.187.152.0/24, Anycast
 ip-cidr, 185.187.153.0/24, Anycast
-ip-cidr, 185.188.105.0/24, Anycast
-ip-cidr, 185.188.106.0/24, Anycast
 ip-cidr, 185.190.26.0/24, Anycast
 ip-cidr, 185.191.160.0/24, Anycast
 ip-cidr, 185.191.161.0/24, Anycast
@@ -2448,6 +2426,7 @@ ip-cidr, 185.208.173.0/24, Anycast
 ip-cidr, 185.221.85.0/24, Anycast
 ip-cidr, 185.221.87.0/24, Anycast
 ip-cidr, 185.221.160.0/24, Anycast
+ip-cidr, 185.222.222.0/24, Anycast
 ip-cidr, 185.223.44.0/24, Anycast
 ip-cidr, 185.226.166.0/24, Anycast
 ip-cidr, 185.227.234.0/24, Anycast
@@ -2495,13 +2474,7 @@ ip-cidr, 188.244.122.0/24, Anycast
 ip-cidr, 189.201.244.0/23, Anycast
 ip-cidr, 190.13.113.0/24, Anycast
 ip-cidr, 190.93.244.0/22, Anycast
-ip-cidr, 190.151.144.0/24, Anycast
-ip-cidr, 190.151.148.0/24, Anycast
-ip-cidr, 190.151.155.0/24, Anycast
-ip-cidr, 190.151.157.0/24, Anycast
-ip-cidr, 190.151.159.0/24, Anycast
-ip-cidr, 192.0.42.0/24, Anycast
-ip-cidr, 192.0.43.0/24, Anycast
+ip-cidr, 190.151.145.0/24, Anycast
 ip-cidr, 192.0.54.0/24, Anycast
 ip-cidr, 192.0.63.0/24, Anycast
 ip-cidr, 192.0.65.0/24, Anycast
@@ -2515,6 +2488,7 @@ ip-cidr, 192.0.77.0/24, Anycast
 ip-cidr, 192.0.78.0/24, Anycast
 ip-cidr, 192.0.79.0/24, Anycast
 ip-cidr, 192.5.5.0/24, Anycast
+ip-cidr, 192.16.0.0/24, Anycast
 ip-cidr, 192.16.16.0/24, Anycast
 ip-cidr, 192.16.37.0/24, Anycast
 ip-cidr, 192.16.38.0/24, Anycast
@@ -2552,14 +2526,14 @@ ip-cidr, 192.175.48.0/24, Anycast
 ip-cidr, 192.190.7.0/24, Anycast
 ip-cidr, 192.200.160.0/24, Anycast
 ip-cidr, 192.203.230.0/24, Anycast
-ip-cidr, 192.219.216.0/21, Anycast
 ip-cidr, 192.228.79.0/24, Anycast
+ip-cidr, 192.229.243.0/24, Anycast
 ip-cidr, 192.229.254.0/24, Anycast
 ip-cidr, 192.229.255.0/24, Anycast
 ip-cidr, 192.230.64.0/24, Anycast
 ip-cidr, 192.230.65.0/24, Anycast
 ip-cidr, 192.230.68.0/24, Anycast
-ip-cidr, 192.230.69.0/24, Anycast
+ip-cidr, 192.230.81.0/24, Anycast
 ip-cidr, 192.230.84.0/24, Anycast
 ip-cidr, 192.230.95.0/24, Anycast
 ip-cidr, 192.230.108.0/24, Anycast
@@ -2650,6 +2624,7 @@ ip-cidr, 194.104.235.0/24, Anycast
 ip-cidr, 194.110.0.0/24, Anycast
 ip-cidr, 194.113.223.0/24, Anycast
 ip-cidr, 194.117.58.0/24, Anycast
+ip-cidr, 194.146.106.0/24, Anycast
 ip-cidr, 194.152.44.0/24, Anycast
 ip-cidr, 194.156.156.0/24, Anycast
 ip-cidr, 194.169.218.0/24, Anycast
@@ -2689,7 +2664,6 @@ ip-cidr, 198.41.212.0/24, Anycast
 ip-cidr, 198.41.214.0/23, Anycast
 ip-cidr, 198.41.216.0/24, Anycast
 ip-cidr, 198.41.217.0/24, Anycast
-ip-cidr, 198.41.219.0/24, Anycast
 ip-cidr, 198.41.220.0/23, Anycast
 ip-cidr, 198.41.222.0/24, Anycast
 ip-cidr, 198.41.223.0/24, Anycast
@@ -2704,6 +2678,7 @@ ip-cidr, 198.97.190.0/24, Anycast
 ip-cidr, 198.102.251.0/24, Anycast
 ip-cidr, 198.133.199.0/24, Anycast
 ip-cidr, 198.135.184.0/24, Anycast
+ip-cidr, 198.137.62.0/24, Anycast
 ip-cidr, 198.137.150.0/24, Anycast
 ip-cidr, 198.143.59.0/24, Anycast
 ip-cidr, 198.143.61.0/24, Anycast
@@ -2733,9 +2708,9 @@ ip-cidr, 199.7.66.0/24, Anycast
 ip-cidr, 199.7.67.0/24, Anycast
 ip-cidr, 199.7.68.0/24, Anycast
 ip-cidr, 199.7.69.0/24, Anycast
-ip-cidr, 199.7.83.0/24, Anycast
 ip-cidr, 199.7.91.0/24, Anycast
 ip-cidr, 199.9.14.0/24, Anycast
+ip-cidr, 199.15.163.0/24, Anycast
 ip-cidr, 199.16.172.0/24, Anycast
 ip-cidr, 199.16.173.0/24, Anycast
 ip-cidr, 199.19.54.0/24, Anycast
@@ -2747,7 +2722,6 @@ ip-cidr, 199.33.232.0/24, Anycast
 ip-cidr, 199.33.233.0/24, Anycast
 ip-cidr, 199.36.158.0/24, Anycast
 ip-cidr, 199.43.134.0/24, Anycast
-ip-cidr, 199.43.135.0/24, Anycast
 ip-cidr, 199.45.160.0/24, Anycast
 ip-cidr, 199.46.32.0/19, Anycast
 ip-cidr, 199.47.130.0/24, Anycast
@@ -2757,7 +2731,7 @@ ip-cidr, 199.59.243.0/24, Anycast
 ip-cidr, 199.60.103.0/24, Anycast
 ip-cidr, 199.66.200.0/24, Anycast
 ip-cidr, 199.71.213.0/24, Anycast
-ip-cidr, 199.83.134.0/24, Anycast
+ip-cidr, 199.83.135.0/24, Anycast
 ip-cidr, 199.85.126.0/24, Anycast
 ip-cidr, 199.85.127.0/24, Anycast
 ip-cidr, 199.91.151.0/24, Anycast
@@ -2778,6 +2752,7 @@ ip-cidr, 199.182.40.0/24, Anycast
 ip-cidr, 199.184.182.0/24, Anycast
 ip-cidr, 199.184.183.0/24, Anycast
 ip-cidr, 199.188.223.0/24, Anycast
+ip-cidr, 199.193.249.0/24, Anycast
 ip-cidr, 199.212.90.0/24, Anycast
 ip-cidr, 199.232.0.0/16, Anycast
 ip-cidr, 199.232.60.0/22, Anycast
@@ -2849,8 +2824,6 @@ ip-cidr, 203.34.28.0/24, Anycast
 ip-cidr, 203.34.80.0/24, Anycast
 ip-cidr, 203.55.107.0/24, Anycast
 ip-cidr, 203.84.218.0/24, Anycast
-ip-cidr, 203.99.20.0/24, Anycast
-ip-cidr, 203.99.26.0/24, Anycast
 ip-cidr, 203.107.48.0/23, Anycast
 ip-cidr, 203.107.50.0/23, Anycast
 ip-cidr, 203.119.26.0/24, Anycast
@@ -2860,7 +2833,6 @@ ip-cidr, 203.119.86.0/24, Anycast
 ip-cidr, 203.119.88.0/23, Anycast
 ip-cidr, 203.119.95.0/24, Anycast
 ip-cidr, 203.205.222.0/23, Anycast
-ip-cidr, 204.10.51.0/24, Anycast
 ip-cidr, 204.10.76.0/23, Anycast
 ip-cidr, 204.10.78.0/23, Anycast
 ip-cidr, 204.10.136.0/24, Anycast
@@ -2872,6 +2844,7 @@ ip-cidr, 204.16.254.0/24, Anycast
 ip-cidr, 204.16.255.0/24, Anycast
 ip-cidr, 204.19.119.0/24, Anycast
 ip-cidr, 204.26.57.0/24, Anycast
+ip-cidr, 204.27.20.0/24, Anycast
 ip-cidr, 204.48.34.0/24, Anycast
 ip-cidr, 204.61.216.0/23, Anycast
 ip-cidr, 204.69.234.0/24, Anycast
@@ -2898,13 +2871,14 @@ ip-cidr, 204.93.150.0/24, Anycast
 ip-cidr, 204.93.210.0/24, Anycast
 ip-cidr, 204.117.214.0/24, Anycast
 ip-cidr, 204.138.99.0/24, Anycast
+ip-cidr, 204.138.114.0/24, Anycast
+ip-cidr, 204.194.234.0/24, Anycast
 ip-cidr, 204.225.142.0/24, Anycast
 ip-cidr, 205.132.47.0/24, Anycast
 ip-cidr, 205.185.208.0/24, Anycast
 ip-cidr, 205.185.216.0/24, Anycast
 ip-cidr, 205.189.102.0/23, Anycast
 ip-cidr, 205.204.111.0/24, Anycast
-ip-cidr, 205.208.0.0/17, Anycast
 ip-cidr, 205.220.230.0/24, Anycast
 ip-cidr, 205.233.181.0/24, Anycast
 ip-cidr, 205.234.175.0/24, Anycast
@@ -2920,6 +2894,7 @@ ip-cidr, 206.220.177.0/24, Anycast
 ip-cidr, 206.223.122.0/24, Anycast
 ip-cidr, 206.238.236.0/24, Anycast
 ip-cidr, 206.238.237.0/24, Anycast
+ip-cidr, 207.5.199.0/24, Anycast
 ip-cidr, 207.34.6.0/24, Anycast
 ip-cidr, 207.34.7.0/24, Anycast
 ip-cidr, 207.34.11.0/24, Anycast
@@ -2932,8 +2907,9 @@ ip-cidr, 207.167.126.0/24, Anycast
 ip-cidr, 207.167.127.0/24, Anycast
 ip-cidr, 207.174.61.0/24, Anycast
 ip-cidr, 207.189.149.0/24, Anycast
-ip-cidr, 207.202.117.0/24, Anycast
+ip-cidr, 207.191.0.0/17, Anycast
 ip-cidr, 207.223.160.0/20, Anycast
+ip-cidr, 207.226.132.0/24, Anycast
 ip-cidr, 207.248.68.0/23, Anycast
 ip-cidr, 208.52.177.0/24, Anycast
 ip-cidr, 208.67.220.0/24, Anycast
@@ -2942,6 +2918,7 @@ ip-cidr, 208.67.239.0/24, Anycast
 ip-cidr, 208.69.38.0/24, Anycast
 ip-cidr, 208.69.39.0/24, Anycast
 ip-cidr, 208.69.180.0/24, Anycast
+ip-cidr, 208.76.46.0/24, Anycast
 ip-cidr, 208.77.4.0/24, Anycast
 ip-cidr, 208.77.64.0/21, Anycast
 ip-cidr, 208.80.124.0/24, Anycast
@@ -3023,7 +3000,6 @@ ip-cidr, 213.188.212.0/23, Anycast
 ip-cidr, 213.188.214.0/23, Anycast
 ip-cidr, 213.188.216.0/23, Anycast
 ip-cidr, 213.188.218.0/23, Anycast
-ip-cidr, 213.188.220.0/23, Anycast
 ip-cidr, 213.188.222.0/23, Anycast
 ip-cidr, 213.196.7.0/24, Anycast
 ip-cidr, 213.196.8.0/24, Anycast
@@ -3044,11 +3020,11 @@ ip-cidr, 213.248.220.0/24, Anycast
 ip-cidr, 213.248.221.0/24, Anycast
 ip-cidr, 213.248.222.0/24, Anycast
 ip-cidr, 213.248.223.0/24, Anycast
-ip-cidr, 216.10.10.0/24, Anycast
 ip-cidr, 216.18.168.0/24, Anycast
 ip-cidr, 216.21.12.0/24, Anycast
 ip-cidr, 216.21.13.0/24, Anycast
 ip-cidr, 216.24.57.0/24, Anycast
+ip-cidr, 216.49.189.0/24, Anycast
 ip-cidr, 216.59.56.0/24, Anycast
 ip-cidr, 216.59.57.0/24, Anycast
 ip-cidr, 216.59.59.0/24, Anycast
@@ -3064,8 +3040,8 @@ ip-cidr, 216.147.33.0/24, Anycast
 ip-cidr, 216.172.4.0/24, Anycast
 ip-cidr, 216.205.52.0/24, Anycast
 ip-cidr, 216.205.53.0/24, Anycast
-ip-cidr, 216.239.32.0/19, Anycast
 ip-cidr, 216.239.32.0/24, Anycast
+ip-cidr, 216.239.32.0/19, Anycast
 ip-cidr, 216.239.34.0/24, Anycast
 ip-cidr, 216.239.35.0/24, Anycast
 ip-cidr, 216.239.36.0/24, Anycast
