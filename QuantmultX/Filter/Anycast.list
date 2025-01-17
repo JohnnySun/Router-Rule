@@ -3076,7 +3076,6 @@ ip6-cidr, 2001:500:4b::/48, Anycast
 ip6-cidr, 2001:500:4c::/48, Anycast
 ip6-cidr, 2001:500:4e::/48, Anycast
 ip6-cidr, 2001:500:4f::/48, Anycast
-ip6-cidr, 2001:500:50::/48, Anycast
 ip6-cidr, 2001:500:54::/48, Anycast
 ip6-cidr, 2001:500:7d::/48, Anycast
 ip6-cidr, 2001:500:83::/48, Anycast
@@ -3124,7 +3123,6 @@ ip6-cidr, 2001:678:74::/48, Anycast
 ip6-cidr, 2001:678:78::/48, Anycast
 ip6-cidr, 2001:678:94::/48, Anycast
 ip6-cidr, 2001:678:19c::/48, Anycast
-ip6-cidr, 2001:678:244::/48, Anycast
 ip6-cidr, 2001:678:290::/48, Anycast
 ip6-cidr, 2001:678:47c::/48, Anycast
 ip6-cidr, 2001:678:4bc::/48, Anycast
@@ -3143,9 +3141,9 @@ ip6-cidr, 2001:7fd:ffff::/48, Anycast
 ip6-cidr, 2001:7fe::/33, Anycast
 ip6-cidr, 2001:dc7:1::/48, Anycast
 ip6-cidr, 2001:dc7:2::/48, Anycast
-ip6-cidr, 2001:dc7:ffc1::/48, Anycast
 ip6-cidr, 2001:dc7:ffc3::/48, Anycast
 ip6-cidr, 2001:dc7:ffc4::/48, Anycast
+ip6-cidr, 2001:dc7:ffc5::/48, Anycast
 ip6-cidr, 2001:dc7:ffd2::/48, Anycast
 ip6-cidr, 2001:dc7:ffd3::/48, Anycast
 ip6-cidr, 2001:dc7:fffd::/48, Anycast
@@ -3184,21 +3182,20 @@ ip6-cidr, 2400:cb00:2049::/48, Anycast
 ip6-cidr, 2400:cb00:f00e::/48, Anycast
 ip6-cidr, 2401:8d00:1::/48, Anycast
 ip6-cidr, 2401:8d00:2::/48, Anycast
+ip6-cidr, 2401:b180:4100::/48, Anycast
 ip6-cidr, 2402:5ac0::/32, Anycast
 ip6-cidr, 2402:5c40:5c40::/48, Anycast
 ip6-cidr, 2402:5c40:5c41::/48, Anycast
 ip6-cidr, 2402:7d80:8888::/48, Anycast
 ip6-cidr, 2402:cf80:100::/44, Anycast
 ip6-cidr, 2402:cf80:107::/48, Anycast
+ip6-cidr, 2404:2280:1fb::/48, Anycast
 ip6-cidr, 2406:840:eb8c::/48, Anycast
 ip6-cidr, 2406:8540::/48, Anycast
 ip6-cidr, 2407:30c0:180::/48, Anycast
 ip6-cidr, 2407:30c0:181::/48, Anycast
 ip6-cidr, 2407:30c0:182::/48, Anycast
 ip6-cidr, 2407:30c0:183::/48, Anycast
-ip6-cidr, 2408:4000:1014::/48, Anycast
-ip6-cidr, 2408:4000:1019::/48, Anycast
-ip6-cidr, 2408:4009:500::/48, Anycast
 ip6-cidr, 2600::/48, Anycast
 ip6-cidr, 2600:1401:2::/48, Anycast
 ip6-cidr, 2600:1403:11::/48, Anycast
@@ -3285,6 +3282,7 @@ ip6-cidr, 2602:fb10:5f::/48, Anycast
 ip6-cidr, 2602:fbaf:f01::/48, Anycast
 ip6-cidr, 2602:fbaf:f02::/48, Anycast
 ip6-cidr, 2602:fbc2:1::/48, Anycast
+ip6-cidr, 2602:fbd4::/36, Anycast
 ip6-cidr, 2602:fd50:f::/48, Anycast
 ip6-cidr, 2602:fd75:1::/48, Anycast
 ip6-cidr, 2602:fea2:2::/48, Anycast
@@ -3317,6 +3315,7 @@ ip6-cidr, 2603:5:2200::/44, Anycast
 ip6-cidr, 2603:5:2210::/44, Anycast
 ip6-cidr, 2603:5:2220::/44, Anycast
 ip6-cidr, 2603:5:2230::/44, Anycast
+ip6-cidr, 2603:5:2240::/44, Anycast
 ip6-cidr, 2603:5:2250::/44, Anycast
 ip6-cidr, 2603:5:2260::/44, Anycast
 ip6-cidr, 2603:5:2270::/44, Anycast
@@ -3332,7 +3331,6 @@ ip6-cidr, 2604:3400:aaac::/48, Anycast
 ip6-cidr, 2604:cac0:a104::/48, Anycast
 ip6-cidr, 2604:ffc0::/48, Anycast
 ip6-cidr, 2605:380:aa1::/48, Anycast
-ip6-cidr, 2605:ee00:fff0::/44, Anycast
 ip6-cidr, 2606:2c0:20::/48, Anycast
 ip6-cidr, 2606:2c0:21::/48, Anycast
 ip6-cidr, 2606:1a40::/48, Anycast
@@ -3465,6 +3463,7 @@ ip6-cidr, 2606:4700:311d::/48, Anycast
 ip6-cidr, 2606:4700:311e::/48, Anycast
 ip6-cidr, 2606:4700:311f::/48, Anycast
 ip6-cidr, 2606:4700:4026::/48, Anycast
+ip6-cidr, 2606:4700:403d::/48, Anycast
 ip6-cidr, 2606:4700:4043::/48, Anycast
 ip6-cidr, 2606:4700:4044::/48, Anycast
 ip6-cidr, 2606:4700:404a::/48, Anycast
@@ -3487,7 +3486,6 @@ ip6-cidr, 2606:4700:440d::/48, Anycast
 ip6-cidr, 2606:4700:440e::/48, Anycast
 ip6-cidr, 2606:4700:440f::/48, Anycast
 ip6-cidr, 2606:4700:4700::/48, Anycast
-ip6-cidr, 2606:4700:9ae4::/46, Anycast
 ip6-cidr, 2606:4700:ff00::/48, Anycast
 ip6-cidr, 2606:50c0:8000::/48, Anycast
 ip6-cidr, 2606:50c0:8001::/48, Anycast
@@ -3552,7 +3550,6 @@ ip6-cidr, 2607:f740:e610::/48, Anycast
 ip6-cidr, 2607:f740:e615::/48, Anycast
 ip6-cidr, 2607:f740:e616::/48, Anycast
 ip6-cidr, 2607:f740:e619::/48, Anycast
-ip6-cidr, 2607:f740:e61a::/48, Anycast
 ip6-cidr, 2607:f740:e61b::/48, Anycast
 ip6-cidr, 2607:f740:e61c::/48, Anycast
 ip6-cidr, 2607:f740:e621::/48, Anycast
@@ -3642,13 +3639,12 @@ ip6-cidr, 2620:0:ccc::/48, Anycast
 ip6-cidr, 2620:0:ccd::/48, Anycast
 ip6-cidr, 2620:0:2e61::/48, Anycast
 ip6-cidr, 2620:2:6000::/48, Anycast
-ip6-cidr, 2620:1f:8000::/48, Anycast
 ip6-cidr, 2620:1f:8004::/48, Anycast
-ip6-cidr, 2620:1f:8006::/48, Anycast
 ip6-cidr, 2620:49:1::/48, Anycast
 ip6-cidr, 2620:49:2::/48, Anycast
 ip6-cidr, 2620:49:4::/48, Anycast
 ip6-cidr, 2620:4d:4000::/48, Anycast
+ip6-cidr, 2620:4f:8000::/48, Anycast
 ip6-cidr, 2620:57:4001::/48, Anycast
 ip6-cidr, 2620:57:4002::/48, Anycast
 ip6-cidr, 2620:6e:a003::/48, Anycast
@@ -3682,6 +3678,7 @@ ip6-cidr, 2620:12a:8000::/44, Anycast
 ip6-cidr, 2620:12c:90af::/48, Anycast
 ip6-cidr, 2620:132:1000::/48, Anycast
 ip6-cidr, 2620:136:a005::/48, Anycast
+ip6-cidr, 2620:138:800e::/48, Anycast
 ip6-cidr, 2620:149:ae0::/48, Anycast
 ip6-cidr, 2620:149:ae1::/48, Anycast
 ip6-cidr, 2620:149:ae6::/48, Anycast
@@ -3739,7 +3736,6 @@ ip6-cidr, 2804:218:7002::/48, Anycast
 ip6-cidr, 2a00:11c0:aa1::/48, Anycast
 ip6-cidr, 2a00:11c0:1010::/48, Anycast
 ip6-cidr, 2a00:1630:5200::/48, Anycast
-ip6-cidr, 2a00:1c3e:96::/47, Anycast
 ip6-cidr, 2a00:1c3e:98::/47, Anycast
 ip6-cidr, 2a00:1c50:94::/48, Anycast
 ip6-cidr, 2a00:a900:6afe::/48, Anycast
@@ -3749,7 +3745,6 @@ ip6-cidr, 2a00:edc0:6259::/48, Anycast
 ip6-cidr, 2a01:70:fffe::/48, Anycast
 ip6-cidr, 2a01:111:2003::/48, Anycast
 ip6-cidr, 2a01:3f1:3000::/38, Anycast
-ip6-cidr, 2a01:3f1:c000::/38, Anycast
 ip6-cidr, 2a01:5b0:4::/48, Anycast
 ip6-cidr, 2a01:5b0:5::/48, Anycast
 ip6-cidr, 2a01:5b0:9::/48, Anycast
@@ -3868,7 +3863,6 @@ ip6-cidr, 2a01:8840:fb::/48, Anycast
 ip6-cidr, 2a01:8840:106::/48, Anycast
 ip6-cidr, 2a01:8840:108::/48, Anycast
 ip6-cidr, 2a01:8840:109::/48, Anycast
-ip6-cidr, 2a01:8840:1ba::/48, Anycast
 ip6-cidr, 2a01:8840:1bb::/48, Anycast
 ip6-cidr, 2a01:c9c0:c000::/48, Anycast
 ip6-cidr, 2a01:c9c0:c008::/48, Anycast
@@ -3887,7 +3881,7 @@ ip6-cidr, 2a02:b48:9100::/40, Anycast
 ip6-cidr, 2a02:6a80:530e::/48, Anycast
 ip6-cidr, 2a02:6ea0:babe::/48, Anycast
 ip6-cidr, 2a02:6ea0:cd77::/48, Anycast
-ip6-cidr, 2a02:e980:6::/48, Anycast
+ip6-cidr, 2a02:e980:2::/48, Anycast
 ip6-cidr, 2a02:e980:26::/48, Anycast
 ip6-cidr, 2a02:e980:28::/48, Anycast
 ip6-cidr, 2a02:e980:2c::/48, Anycast
@@ -3896,6 +3890,7 @@ ip6-cidr, 2a02:e980:52::/48, Anycast
 ip6-cidr, 2a02:e980:5b::/48, Anycast
 ip6-cidr, 2a02:e980:5c::/48, Anycast
 ip6-cidr, 2a02:e980:5d::/48, Anycast
+ip6-cidr, 2a02:e980:65::/48, Anycast
 ip6-cidr, 2a02:e980:82::/48, Anycast
 ip6-cidr, 2a02:e980:83::/48, Anycast
 ip6-cidr, 2a02:e980:84::/48, Anycast
@@ -3927,7 +3922,6 @@ ip6-cidr, 2a02:e980:e9::/48, Anycast
 ip6-cidr, 2a02:e980:ea::/48, Anycast
 ip6-cidr, 2a02:e980:f4::/48, Anycast
 ip6-cidr, 2a02:e980:f5::/48, Anycast
-ip6-cidr, 2a02:e980:f9::/48, Anycast
 ip6-cidr, 2a02:e980:108::/48, Anycast
 ip6-cidr, 2a02:e980:10a::/48, Anycast
 ip6-cidr, 2a02:e980:10e::/48, Anycast
@@ -3939,14 +3933,15 @@ ip6-cidr, 2a02:e980:12c::/48, Anycast
 ip6-cidr, 2a02:e980:149::/48, Anycast
 ip6-cidr, 2a02:e980:14a::/48, Anycast
 ip6-cidr, 2a02:e980:159::/48, Anycast
+ip6-cidr, 2a02:e980:15f::/48, Anycast
 ip6-cidr, 2a02:e980:160::/48, Anycast
 ip6-cidr, 2a02:e980:165::/48, Anycast
 ip6-cidr, 2a02:e980:166::/48, Anycast
+ip6-cidr, 2a02:e980:175::/48, Anycast
 ip6-cidr, 2a02:e980:179::/48, Anycast
 ip6-cidr, 2a02:e980:17a::/48, Anycast
 ip6-cidr, 2a02:e980:17b::/48, Anycast
 ip6-cidr, 2a02:e980:17c::/48, Anycast
-ip6-cidr, 2a02:e980:191::/48, Anycast
 ip6-cidr, 2a02:e980:193::/48, Anycast
 ip6-cidr, 2a02:e980:194::/48, Anycast
 ip6-cidr, 2a02:e980:195::/48, Anycast
@@ -3955,7 +3950,6 @@ ip6-cidr, 2a02:e980:1c1::/48, Anycast
 ip6-cidr, 2a02:e980:1c2::/48, Anycast
 ip6-cidr, 2a02:e980:1c3::/48, Anycast
 ip6-cidr, 2a02:e980:1c4::/48, Anycast
-ip6-cidr, 2a02:e980:1c5::/48, Anycast
 ip6-cidr, 2a02:e980:1ca::/48, Anycast
 ip6-cidr, 2a02:e980:1cb::/48, Anycast
 ip6-cidr, 2a02:e980:1cc::/48, Anycast
@@ -3963,9 +3957,9 @@ ip6-cidr, 2a02:e980:1cd::/48, Anycast
 ip6-cidr, 2a02:e980:1ce::/48, Anycast
 ip6-cidr, 2a02:e980:1ec::/48, Anycast
 ip6-cidr, 2a02:e980:1ed::/48, Anycast
-ip6-cidr, 2a02:e980:1ff::/48, Anycast
 ip6-cidr, 2a02:e980:200::/48, Anycast
 ip6-cidr, 2a02:e980:201::/48, Anycast
+ip6-cidr, 2a02:e980:20b::/48, Anycast
 ip6-cidr, 2a02:e980:20c::/48, Anycast
 ip6-cidr, 2a02:e980:20d::/48, Anycast
 ip6-cidr, 2a02:e981:2e::/48, Anycast
@@ -4022,6 +4016,7 @@ ip6-cidr, 2a04:4e47:2::/48, Anycast
 ip6-cidr, 2a04:4e47:3::/48, Anycast
 ip6-cidr, 2a04:6d82::/32, Anycast
 ip6-cidr, 2a04:ccc0:ffff::/48, Anycast
+ip6-cidr, 2a04:e4c0:171::/48, Anycast
 ip6-cidr, 2a04:e4c7:fffd::/48, Anycast
 ip6-cidr, 2a04:e4c7:fffe::/48, Anycast
 ip6-cidr, 2a04:e802::/48, Anycast
@@ -4036,7 +4031,6 @@ ip6-cidr, 2a05:b0c0::/48, Anycast
 ip6-cidr, 2a05:b0c1::/48, Anycast
 ip6-cidr, 2a05:b0c4:1::/48, Anycast
 ip6-cidr, 2a05:dfc1:cec::/48, Anycast
-ip6-cidr, 2a05:dfc1:cff::/48, Anycast
 ip6-cidr, 2a05:dfc1:7e00::/48, Anycast
 ip6-cidr, 2a05:dfc1:91af::/48, Anycast
 ip6-cidr, 2a05:dfc4::/48, Anycast
@@ -4089,7 +4083,6 @@ ip6-cidr, 2a07:7800::/48, Anycast
 ip6-cidr, 2a07:7800:1::/48, Anycast
 ip6-cidr, 2a07:a8c0::/33, Anycast
 ip6-cidr, 2a07:a8c1::/33, Anycast
-ip6-cidr, 2a07:dc00:180::/44, Anycast
 ip6-cidr, 2a07:dc00:1810::/44, Anycast
 ip6-cidr, 2a07:dc00:1820::/44, Anycast
 ip6-cidr, 2a07:dc00:1830::/44, Anycast
@@ -4123,6 +4116,7 @@ ip6-cidr, 2a0a:ec04::/32, Anycast
 ip6-cidr, 2a0b:4d07:1::/48, Anycast
 ip6-cidr, 2a0b:4d07:2::/48, Anycast
 ip6-cidr, 2a0b:8e00::/48, Anycast
+ip6-cidr, 2a0b:b600:3803::/48, Anycast
 ip6-cidr, 2a0c:2f07:ac1::/48, Anycast
 ip6-cidr, 2a0c:8540:1::/48, Anycast
 ip6-cidr, 2a0c:8540:2::/48, Anycast
@@ -4149,7 +4143,7 @@ ip6-cidr, 2a0d:2a00:ab2::/48, Anycast
 ip6-cidr, 2a0d:3584:1111::/48, Anycast
 ip6-cidr, 2a0d:8000::/48, Anycast
 ip6-cidr, 2a0d:8000:1::/48, Anycast
-ip6-cidr, 2a0e:8f02:f058::/48, Anycast
+ip6-cidr, 2a0e:97c7:170::/48, Anycast
 ip6-cidr, 2a0e:97c7:181::/48, Anycast
 ip6-cidr, 2a0e:aa07:e039::/48, Anycast
 ip6-cidr, 2a0e:ac00::/32, Anycast
@@ -4175,6 +4169,7 @@ ip6-cidr, 2a0f:9400:8020::/48, Anycast
 ip6-cidr, 2a0f:ec80::/32, Anycast
 ip6-cidr, 2a10:50c0::/48, Anycast
 ip6-cidr, 2a10:50c0:c000::/48, Anycast
+ip6-cidr, 2a10:9840:2::/48, Anycast
 ip6-cidr, 2a10:ac82::/32, Anycast
 ip6-cidr, 2a10:cc44:120::/48, Anycast
 ip6-cidr, 2a10:cc44:18f::/48, Anycast
@@ -4186,9 +4181,7 @@ ip6-cidr, 2a12:bec0:5da::/48, Anycast
 ip6-cidr, 2a13:1000::/29, Anycast
 ip6-cidr, 2a13:a5c5:f100::/44, Anycast
 ip6-cidr, 2a13:a5c7:1600::/48, Anycast
-ip6-cidr, 2a13:ccc5::/32, Anycast
 ip6-cidr, 2a14:7c0:5200::/48, Anycast
-ip6-cidr, 2a14:6781:f000::/36, Anycast
 ip6-cidr, 2a14:7581:2ff::/48, Anycast
 ip6-cidr, 2a14:7581:ff0::/48, Anycast
 ip6-cidr, 2a14:7581:9453::/48, Anycast
